@@ -2,6 +2,8 @@
 
 ## 简介
 
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+
 根据给出的函数找出两个数组中的差集。
 
 ```javascript
@@ -66,4 +68,4 @@ const differenceWith = (arr, val, comp) => arr.filter(a => val.findIndex(b => co
 
 ![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://pushmetop.github.io)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

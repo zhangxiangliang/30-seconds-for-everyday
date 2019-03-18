@@ -2,23 +2,10 @@
 
 ## 简介
 
-前端在日常开发中最经常需要遇到的场景便是向后端发送数据、拉取数据，最常用到的 `HTTP Client` 有 `jQuery.ajax`、`axios`、`fetch` 等，不知道大家有没有想过了解它们是基于什么封装的？小二刚毕业的时候也没有想过，当时觉得很多东西 `拿来用` 就对了为什么要知道它们的更多内容？
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
-记得第一次面试时，面试官问了这个问题并给出了提示 `XMLHttpRequest` 但是小二完全答不出来。面试结束后小二很长一段时间不能理解这个问题的意义所在，直到后来用爬取一个站点数据的时候一直出现 “抓取的数据ID 和 直接用数据ID获取的文章内容不一致” 的问题，经过排查后发现是 JavaScript 数字超过一定位数精度丢失：
-
-```javascript
-// 输出 { id: 352677239567885440 }
-console.log(JSON.parse('{"id":352677239567885445}'))
-```
-
-由于是爬取别人的数据肯定没法像自己人一样，直接让后端小哥哥配合改一下传输的数字格式。熟悉 `jQuery.ajax` 和 `axios` 的情况下我们可以`修改配置`、`使用拦截器`、`源码` 来把 json 数据中的数字变为字符串解决这个问题，那如果熟悉 `XMLHttpRequest` 是不是可以自己稍微定制一个？
-
-> 作为一棵树，向下长得越深，向上长得就越高。
-> 作为一只程序🐒，知道得更多，BUG 就会更少 XDD。
-
-<!--more-->
-
-`扎深根` 不一定会让我们得到什么，但会让我们遇到问题时更加从容。虽然让我们一起 `扎根 ` 实现一个简单的 `HTTP Client` 来学习 `XMLHttpRequest` 中较为常用的函数方法：
+`jQuery.ajax`、`axios` 和 新的 Web API `fetch` 在浏览器不支持的兼容代码都是利用 
+ `XMLHttpRequest` 来完成网络请求，今天一起来实现一个简单的 `HTTP 请求客户端` 顺便学习`XMLHttpRequest` 中较为常用的函数方法：
 
 ```javascript
 const http = ({
@@ -106,6 +93,6 @@ http({
 
 如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。
 
-![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
+![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
-> 本文原稿来自 [PushMeTop](https://pushmetop.github.io)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

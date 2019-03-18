@@ -2,6 +2,8 @@
 
 ## 简介
 
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+
 把对象数组进行分组可能是日常开发中最经常使用到的功能了，除了杀鸡用牛刀引入`lodash`外也可以自己实现一个短小精悍的数组分组。
 
 ```javascript
@@ -47,4 +49,4 @@ const categoryKeys = Object.keys(categoryItems)
 
 ![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://pushmetop.github.io)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

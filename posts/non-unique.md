@@ -2,6 +2,8 @@
 
 ## 简介
 
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+
 取出对象数组中唯一的数据集。
 
 ```javascript
@@ -60,4 +62,4 @@ const filterNonUnique = arr => arr.filter(i => arr.indexOf(i) === arr.lastIndexO
 
 ![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://pushmetop.github.io)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

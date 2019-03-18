@@ -2,8 +2,9 @@
 
 ## 简介
 
-判断一个数组中是否都满足特定的条件，如果满足则返回 `true` 否则返回 `false`。
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+判断一个数组中是否都满足特定的条件，如果满足则返回 `true` 否则返回 `false`。
 
 ```javascript
 // 该源码来自于 https://30secondsofcode.org
@@ -59,4 +60,4 @@ const allEqual = arr => arr.every(val => val === arr[0])
 
 ![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://pushmetop.github.io)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

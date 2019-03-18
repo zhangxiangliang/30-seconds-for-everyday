@@ -2,8 +2,9 @@
 
 ## 简介
 
-将一个数组转化为逗号为分割符的字符串（CSV）即表格数据。
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+将一个数组转化为逗号为分割符的字符串（CSV）即表格数据。
 
 ```javascript
 // 该源码来自于 https://30secondsofcode.org
@@ -56,4 +57,4 @@ function downloadUserData(target) {
 
 ![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://pushmetop.github.io)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

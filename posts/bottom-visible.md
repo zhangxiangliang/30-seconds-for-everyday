@@ -2,6 +2,8 @@
 
 ## 简介
 
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+
 写前端页面时最经常遇到的开发需求之一就是 渲染后端数据返回的数据对象，当数据对象数量极多的时候便需要进行分页。
 
 常见的分页方式有三种：
@@ -81,4 +83,4 @@ const topVisible = () => window.scrollY == 0
 
 ![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
-> 本文原稿来自 [PushMeTop](https://pushmetop.github.io)
+> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
