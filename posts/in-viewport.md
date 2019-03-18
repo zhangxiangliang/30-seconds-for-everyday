@@ -8,8 +8,6 @@
 
 > 既然 `可视区域` 这么重要是否有什么速成秘籍来帮我们？
 
-![生活终于对我这只小猫咪动手了](https://raw.githubusercontent.com/pushmetop/resource/master/pushmetop.github.io/element-is-visible-in-viewport-for-30-seconds/life-taken-me.png)
-
 控制住每一个元素在`可视区域`的出现，就可以扼住命运的后颈为所欲为：
 
 ```javascript
