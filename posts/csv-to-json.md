@@ -7,6 +7,7 @@
 我们之前的两期 [数组转 CSV 表格数据](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/array-to-csv.md) 和 [JSON 对象数组转换 CSV 表格数据](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/json-to-csv.md) 中学习了转化为 `CSV` 表格数据的代码片段，今天就讲讲 如何把 CSV 表格数据转换为 JSON 对象：
 
 ```javascript
+// 该源码来自于 https://30secondsofcode.org
 const CSVToJSON = (data, delimiter = ',') => {
   const titles = data.slice(0, data.indexOf('\n')).split(delimiter);
   return data
