@@ -10,9 +10,7 @@ JavaScript 中有两种数据类型，分别是基本数据类型和引用数据
 | --- | --- |
 | Number、String、Boolean、Null、Undefined、Symbol | Object、Array、Function |
 
-在开发过程中我们有时候会需要对变量进行类型判断，一般是利用 `typeof` 和 `constructor.name` 并搭配相应的特性来完成。
-
-<!-- more -->
+在开发过程中我们有时候会需要对变量进行类型判断，一般是利用 `typeof` 并搭配相应的`特性` 来完成。
 
 ## Number
 
@@ -95,7 +93,11 @@ const isPlainObject = val => !!val && typeof val === 'object' && val.constructor
 
 ## Array
 
-`Array` 算是一个特殊的 `Object` 不信你用上面的对象方法判断看看就知道了，那我们这么判断 `Array` 呢？`ES6` 提供了一个判断数组的方法 `Array.isArray` 是不是非常简单？但是如果你在使用不支持 `ES6` 的浏览器时需要自己实现一下这个方法了：
+`Array` 算是一个特殊的 `Object` 不信你用上面的对象方法判断看看就知道了。
+
+> 那我们这么判断 `Array` 呢？
+
+`ES6` 提供了一个判断数组的方法 `Array.isArray`，但是如果你在使用不支持 `ES6` 的浏览器时需要自己实现一下这个方法了：
 
 ```javascript
 if (!Array.isArray) {
