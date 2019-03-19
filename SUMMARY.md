@@ -18,3 +18,4 @@
 * [JSON对象数组转换 CSV 表格数据](posts/json-to-csv.md)
 * [取出对象数组中唯一的数据集](posts/non-unique.md)
 * [一个简单的 HTTP 工具](posts/simple-http.md)
+* [数据类型大乱炖](posts/type.md)
