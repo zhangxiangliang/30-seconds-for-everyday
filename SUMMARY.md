@@ -19,4 +19,4 @@
 * [取出对象数组中唯一的数据集](posts/non-unique.md)
 * [一个简单的 HTTP 工具](posts/simple-http.md)
 * [数据类型大乱炖](posts/type.md)
-* [大家一起被捕吧计划](posts/lets-get-arrested.md)
+* [大家一起被捕吧](posts/lets-get-arrested.md)
