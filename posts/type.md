@@ -122,8 +122,8 @@ const isFunction = val => typeof val === 'function';
 ```javascript
 const isValidJSON = str => {
   try {
-    JSON.parse(str);
-    return true;
+    const o = JSON.parse(str)
+    return o != null && typeof o === "object"
   } catch (e) {
     return false;
   }
