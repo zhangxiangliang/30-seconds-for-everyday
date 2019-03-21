@@ -41,7 +41,7 @@ html, body {
 }
 ```
 
-虽然第一种方法配合 css 的 `scroll-behavior` 属性显得挺不错，但是 `scroll-behavior` 兼容性挺不搞的具体可以看 [caniuse](https://caniuse.com/#search=scroll-behavior)。
+虽然第一种方法配合 css 的 `scroll-behavior` 属性显得挺不错，但是 `scroll-behavior` 兼容性挺不高的具体可以看 [caniuse](https://caniuse.com/#search=scroll-behavior)。
 
 ## 迴到顶部
 
