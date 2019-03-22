@@ -29,7 +29,7 @@
 * [发布与订阅](posts/event.md)
 * [根据对象属性对对象数组进行分组](posts/group-by.md)
 * [巧用可视区域](posts/in-viewport.md)
-* [优雅插入数组](insert-item-inside-an-array.md)
+* [优雅插入数组](posts/insert-item-inside-an-array.md)
 * [JSON对象数组转换 CSV 表格数据](posts/json-to-csv.md)
 * [大家一起被捕吧](posts/lets-get-arrested.md)
 * [取出对象数组中唯一的数据集](posts/non-unique.md)
