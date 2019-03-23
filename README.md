@@ -36,6 +36,7 @@
 * [迴囬囘回到顶部](posts/scroll.md)
 * [一个简单的 HTTP 工具](posts/simple-http.md)
 * [数据类型大乱炖](posts/type.md)
+* [谁敢与我一战](posts/benchmark.md)
 
 ## 打赏&联系
 
