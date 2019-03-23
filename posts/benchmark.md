@@ -4,7 +4,9 @@
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
-在 [优雅插入数组](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/insert-item-inside-an-array.md) 一文中大家最多的评论就是 “能不能加个基准测试”。小二不是不喜欢加基准测试而是现在硬件设备的性能越来越快了当然这不是我们不写出好代码的原因。书写代码还是应该在 `优雅易读` 和 `运行性能`中做出平衡，适合的场景做适合的事情。不过既然大家都提到了 `基准测试` 碰巧我又刚好没有想到要写什么，那就一起一下 `基准测试` 吧。
+在 [优雅插入数组](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/insert-item-inside-an-array.md) 一文中大家最多的评论就是 “能不能加个基准测试”。小二不是不喜欢加基准测试而是现在硬件设备的性能越来越快了，有时候一些操作不是性能问题的主要原因，当然这不是我们不写出好代码的理由。
+
+书写代码还是应该在 `优雅易读` 和 `运行性能`中做出平衡，适合的场景做适合的事情。不过既然大家都提到了 `基准测试` 碰巧我又刚好没有想到要写什么那就一起了解一下 `基准测试` 吧。
 
 > 人非圣贤孰能无过，三两八哥常伴吾身。-- 嗯是我
 
