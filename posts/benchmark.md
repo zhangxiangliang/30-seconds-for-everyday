@@ -107,32 +107,40 @@ suite
 
 `基准测试` 例子 在 jsPerf 中链接为 [数据插入数组尾部](https://jsperf.com/insert-item-inside-an-array-at-the-end)，利用 jsPerf 可以很方便的进行分享（就像现在），还可以在不同浏览器中打开测试。下面对页面名称进行简单翻译方便英语不好的同学使用：
 
-### Your details - 个人信息
+### 个人信息 
 
 | 名词 | 解释 |
+| --- | --- |
+| Your details | 个人信息，可选填 |
 | Name | 作者名字 |
 | Email | 作者邮箱，由于生成头像 |
 | URL | 项目地址 |
 
-### Test case details - 案例信息 
+### 案例信息 
 
 | 名词 | 解释 |
+| --- | --- |
+| Test case details | 案例信息 |
 | Title | 标题 |
 | Slug | 网站 slug，会被拼接成 https://jsperf.com/slug |
 | Description | 项目描述 |
 
-### Preparation code - 预加载
+### 预加载
 
 | 名词 | 解释 |
+| --- | --- |
+| Preparation code | 预加载 |
 | Preparation code HTML | 项目需要的 DOM 结构 和 引入外部脚本 |
 | Define setup for all tests | 每次测试前将会执行的操作即 Benchmark.setup 中的配置，例如初始化变量。 |
 | Define teardown for all tests | 每次测试后会执行的操作即 Benchmark.teardown 中的配置，例如清除变量。 |
 
-### Code snippets to compare - 需要比较的代码段
+### 需要比较的代码段
 
 如果有不需要的测试代码框只需要放空内容并保存就会自己删除。
 
 | 名词 | 解释 |
+| --- | --- |
+| Code snippets to compare | 需要比较的代码段 |
 | Title | 测试代码段标题 |
 | Async | 代码段是否异步 |
 | Code | 需要测试的代码 |
@@ -142,6 +150,7 @@ suite
 ### 测试页面
 
 | 名词 | 解释 |
+| --- | --- |
 | Run test | 运行测试 |
 | Testing in ... | 测试所在的浏览器及其版本、操作系统及其版本 |
 | Ops/sec | 每秒钟代码执行次数，数值越大越好 |
@@ -149,6 +158,8 @@ suite
 | Compare results of other browsers | 所有浏览器测试结果 |
 | Chart type | 数据展示方式：条形图、折线图、饼图、表格 |
 | Filter | 浏览器环境 |
+
+## 结尾
 
 > 还不赶紧带上键盘与野生程序员大战三百回合，打满经验升级飞仙成为上古程序员。
 
