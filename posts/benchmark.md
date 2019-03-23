@@ -85,7 +85,7 @@ suite
         console.log(String(event.target));
     }).on('complete', () => {
         // 测试完成后
-        console.log('Fastest is ' + suite.filter('fastest').map('name'));
+        console.log('最快方法是 ' + suite.filter('fastest').map('name'));
     }).run({ 'async': true })
 ```
 
@@ -96,7 +96,7 @@ suite
 #2 利用 Array.prototype.push 方法 x 15,796,478 ops/sec ±0.61% (88 runs sampled)
 #3 利用 Array.prototype.concat 方法 x 2,373,044 ops/sec ±1.00% (83 runs sampled)
 #4 利用 spread 运算符 x 2,405,217 ops/sec ±0.72% (91 runs sampled)
-Fastest is #2 利用 Array.prototype.push 方法
+最快方法是 #2 利用 Array.prototype.push 方法
 ```
 
 ## jsPerf
