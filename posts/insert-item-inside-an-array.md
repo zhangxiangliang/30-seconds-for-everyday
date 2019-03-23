@@ -92,6 +92,12 @@ arr = [...[-2, -1, 0], ...arr];
 
 > 如果大家还有什么优雅的写法留言评论，也可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 提交。
 
+## 基准测试
+
+* [把数据插入数组尾部](https://jsperf.com/insert-item-inside-an-array-at-the-end)
+* [把数据插入数组头部](https://jsperf.com/insert-item-inside-an-array-at-the-head)
+* [把数据插入数组指定位置](https://jsperf.com/insert-item-inside-an-array-at-the-merge)
+
 ## 打赏&联系
 
 如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。
