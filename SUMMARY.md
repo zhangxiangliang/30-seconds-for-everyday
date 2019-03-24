@@ -23,3 +23,4 @@
 * [一个简单的 HTTP 工具](posts/simple-http.md)
 * [数据类型大乱炖](posts/type.md)
 * [谁敢与我一战](posts/benchmark.md)
+* [数组也会秃顶](posts/sparse-array.md)
