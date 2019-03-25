@@ -92,8 +92,6 @@ console.log(countSymbols(emoji));
 
 ### 反转字符串
 
-##### BUG 警告
-
 如同上面所讲 emoji 会被当做两个 `UCS-2` 字符，反转的时候 4个完整的字节会被硬生生的拆分开来，可以使用 [Esrever](https://github.com/mathiasbynens/esrever) 来解决。
 
 ```javascript
