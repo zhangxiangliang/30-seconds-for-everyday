@@ -1,10 +1,10 @@
-# JSONToCSV
+<!-- # JSONToCSV -->
+
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/json-to-csv/poster.png)
 
 ## 简介
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
-
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/json-to-csv/poster.png)
 
 我们在 [每日 30 秒之 arrayToCSV](https://pushmetop.github.io/blog/array-to-csv-for-30-seconds-of-code) 中一起学习了将数组数据转化为 `csv` 表格数据并导出，那如果是对象数组怎么办呢？小脑袋瓜转得快的同学肯定会说：“使用 `Array.prototype.map` 把需要导出的字段先遍历取出，再使用 `arrayToCSV` 将其导出为 CSV 数据表格。”
 

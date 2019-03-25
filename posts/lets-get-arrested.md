@@ -1,10 +1,10 @@
-# 大家一起被捕吧
+<!-- # 大家一起被捕吧 -->
+
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/lets-get-arrested/poster.png)
 
 ## 简介
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
-
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/lets-get-arrested/poster.png)
 
 > 13岁女学生被捕：因发布 JavaScript 无限循环代码。
 

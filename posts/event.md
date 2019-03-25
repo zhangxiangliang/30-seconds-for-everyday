@@ -1,10 +1,10 @@
-# 发布与订阅
+<!-- # 发布与订阅 -->
+
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/event/poster.png)
 
 ## 前言
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
-
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/event/poster.png)
 
 今天分享一个开发中比较常用到的设计模式`发布-订阅模式`也可以叫`观察者模式`，在`发布-订阅模式`中主要有两个角色：发布者 和 订阅者。
 

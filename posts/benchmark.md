@@ -1,10 +1,10 @@
-# 谁敢与我一战
+<!-- # 谁敢与我一战 -->
+
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/benchmark/poster.png)
 
 ## 简介
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
-
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/benchmark/poster.png)
 
 在 [优雅插入数组](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/insert-item-inside-an-array.md) 一文中大家最多的评论就是 “能不能加个基准测试”。小二不是不喜欢加基准测试而是现在硬件设备的性能越来越快了，有时候一些操作不是性能问题的主要原因，当然这不是我们不写出好代码的理由。
 

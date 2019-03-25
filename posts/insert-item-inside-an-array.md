@@ -1,10 +1,10 @@
-# 优雅插入数组
+<!-- # 优雅插入数组 -->
+
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/insert-item-inside-an-array/poster.png)
 
 ## 简介
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
-
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/insert-item-inside-an-array/poster.png)
 
 > 代码能运行起来就行了为什么要编写优雅的代码？
 

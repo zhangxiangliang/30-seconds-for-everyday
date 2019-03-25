@@ -1,10 +1,10 @@
-# CSVToJSON
+<!-- # CSVToJSON -->
+
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/csv-to-json/poster.png)
 
 ## 简介
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
-
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/csv-to-json/poster.png)
 
 我们之前的两期 [数组转 CSV 表格数据](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/array-to-csv.md) 和 [JSON 对象数组转换 CSV 表格数据](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/json-to-csv.md) 中学习了转化为 `CSV` 表格数据的代码片段，今天就讲讲 如何把 CSV 表格数据转换为 JSON 对象：
 
