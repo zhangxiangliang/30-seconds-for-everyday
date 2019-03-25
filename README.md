@@ -2,6 +2,8 @@
 
 ## 前言
 
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+
 #### 每日 30 秒是什么？
 
 > 每天提供一段代码、一个场景或一个概念的文章集合。
