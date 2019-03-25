@@ -127,6 +127,6 @@ console.log(emoji.split('').reverse().join(''));
 
 如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。
 
-![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
+![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
