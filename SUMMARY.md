@@ -6,12 +6,12 @@
 
 * 本周最新
     * [数组也会秃顶](posts/sparse-array.md)
-    * [计算机也要查字典](posts/unicode.md)
+    * [字符编码排雷录](posts/unicode.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
     * [终极等于](posts/equals.md)
-    * [计算机也要查字典](posts/unicode.md)
+    * [字符编码排雷录](posts/unicode.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)

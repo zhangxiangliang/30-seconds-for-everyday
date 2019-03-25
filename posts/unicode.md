@@ -1,4 +1,4 @@
-<!-- # 计算机也要查字典 -->
+<!-- # 字符编码排雷录 -->
 
 ![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/unicode/poster.png)
 
