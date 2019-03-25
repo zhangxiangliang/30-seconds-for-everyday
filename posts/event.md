@@ -4,6 +4,8 @@
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/event/poster.png)
+
 今天分享一个开发中比较常用到的设计模式`发布-订阅模式`也可以叫`观察者模式`，在`发布-订阅模式`中主要有两个角色：发布者 和 订阅者。
 
 生活中最常用到的一个场景就是当你在QQ空间发布一条心情的时候所有你的QQ好友都会收到你的QQ动态，在这个例子中 `你` 就是 `发布者`，而 `QQ 好友` 则会是订阅者。

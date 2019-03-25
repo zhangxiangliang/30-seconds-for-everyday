@@ -4,6 +4,8 @@
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/bottom-visible/poster.png)
+
 写前端页面时最经常遇到的开发需求之一就是 渲染后端数据返回的数据对象，当数据对象数量极多的时候便需要进行分页。
 
 常见的分页方式有三种：

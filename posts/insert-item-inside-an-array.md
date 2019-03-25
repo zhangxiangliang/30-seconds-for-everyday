@@ -4,6 +4,8 @@
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/insert-item-inside-an-array/poster.png)
+
 > 代码能运行起来就行了为什么要编写优雅的代码？
 
 其实很多时候项目进度很赶、小姐姐不理你了、老板不给你加薪等等事情都会成为你今天偷偷把代码写那么不好一点的理由，根据`破窗效应`这样带来的结果可能会不好。

@@ -4,6 +4,8 @@
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/type/poster.png)
+
 JavaScript 中有两种数据类型，分别是基本数据类型和引用数据类型：
 
 | 基本数据类型 | 引用数据类型 |

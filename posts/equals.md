@@ -4,6 +4,8 @@
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/equals/poster.png)
+
 > 科学家发现，人脑中会分泌多种能让人感到快乐、安全和成就感的物质，这些物质统称为“快乐素”。通常情况下，快乐素的释放水平很低，维持我们心情平静。只有当我们完成了预设目标，作为奖励，大脑才会增加快乐素的分泌，让人感受到满足和成功的喜悦。
 
 这是之前看到的一篇关于 `大脑奖励机制` 文章的一段话，为了要获得奖励我们需要有预设目标，而是每日 30 秒系列也是为了帮助大家设立一个目标，每日完成一小段代码的学习来实现 `对学习上瘾`。

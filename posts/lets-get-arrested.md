@@ -4,6 +4,8 @@
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/lets-get-arrested/poster.png)
+
 > 13岁女学生被捕：因发布 JavaScript 无限循环代码。
 
 这条新闻是来自 `2019年3月10日` 很多同学匆匆一瞥便滑动屏幕去看下一条消息了，并没有去了解这段代码是什么，怎么办才能防止这个问题。事情发生后为了抗议日本警察采取的行动和将此行为定为犯罪的荒谬做法，东京开发者 Kimikazu Kato 在 GitHub 上创建了一个名为 [`Let's Get Arrested（来逮捕我们）`](https://github.com/hamukazu/lets-get-arrested) 的仓库这也是本篇文章名的由来。

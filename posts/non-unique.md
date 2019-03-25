@@ -1,8 +1,10 @@
-# 取出对象数组中唯一的数据集
+# 非唯一数据集
 
 ## 简介
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/non-unique/poster.png)
 
 取出对象数组中唯一的数据集。
 

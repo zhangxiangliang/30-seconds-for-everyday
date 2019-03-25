@@ -4,6 +4,8 @@
 
 > [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/all/poster.png)
+
 判断一个数组中是否都满足特定的条件，如果满足则返回 `true` 否则返回 `false`。
 
 ```javascript
