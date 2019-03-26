@@ -7,6 +7,7 @@
 * 本周最新
     * [数组也会秃顶](posts/sparse-array.md)
     * [字符编码排雷录](posts/unicode.md)
+    * [函数参数骚操作](posts/function-params.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
@@ -35,6 +36,7 @@
     * [CSVToJSON](posts/csv-to-json.md)
 
 * 编程思想
+    * [函数参数骚操作](posts/function-params.md)
     * [发布与订阅](posts/event.md)
 
 * 安全&工具
