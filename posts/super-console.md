@@ -41,7 +41,7 @@ const c = star(b);
 console.log(c);
 ```
 
-## Superme Debug
+## 超级 Debug
 
 好家伙满满当当的魔术变量和 `console.log`，这显然会减少大量摸🐟时间，机智的我们为何不对 `console.log` 进行升级：
 
@@ -60,14 +60,12 @@ star(pushmetop(
 ))
 ```
 
-## Superme Plus Debug
+## 超超级 Debug
 
 除了 iphone 有 plus 我们的 `debug` 怎么可能没有呢？
 
 ```javascript
-const supermePlus = function (x, fn = (x) => x) {
-    return fn(x);
-}
+const supermePlus =  (x, fn = (y) => y) => fn(x)
 ```
 
 有了 supermePlus 我们可以在调试的时候方便的插入调试代码：
