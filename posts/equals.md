@@ -4,7 +4,9 @@
 
 ## 简介
 
-> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
+> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 > 科学家发现，人脑中会分泌多种能让人感到快乐、安全和成就感的物质，这些物质统称为“快乐素”。通常情况下，快乐素的释放水平很低，维持我们心情平静。只有当我们完成了预设目标，作为奖励，大脑才会增加快乐素的分泌，让人感受到满足和成功的喜悦。
 
@@ -108,7 +110,7 @@ equals({ i: 'love u' }, { i: 'love u' }); // 输出 true
 
 ## 一起成长
 
-如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
+如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
 ![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 

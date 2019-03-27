@@ -4,7 +4,9 @@
 
 ## 简介
 
-> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
+> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 判断一个数组中是否都满足特定的条件，如果满足则返回 `true` 否则返回 `false`。
 
@@ -58,7 +60,7 @@ const allEqual = arr => arr.every(val => val === arr[0])
 
 ## 一起成长
 
-如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
+如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
 ![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 

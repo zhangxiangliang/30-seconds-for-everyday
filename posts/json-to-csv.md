@@ -4,7 +4,9 @@
 
 ## 简介
 
-> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
+> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 我们在 [每日 30 秒之 arrayToCSV](https://pushmetop.github.io/blog/array-to-csv-for-30-seconds-of-code) 中一起学习了将数组数据转化为 `csv` 表格数据并导出，那如果是对象数组怎么办呢？小脑袋瓜转得快的同学肯定会说：“使用 `Array.prototype.map` 把需要导出的字段先遍历取出，再使用 `arrayToCSV` 将其导出为 CSV 数据表格。”
 
@@ -88,7 +90,7 @@ function downloadUserData(target) {
 
 ## 一起成长
 
-如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
+如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
 ![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 

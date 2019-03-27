@@ -4,7 +4,9 @@
 
 ## 简介
 
-> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
+> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 `可视区域`是一个前端优化经常出现的名词，不管是显示器、手机、平板它们的`可视区域`范围都是有限。在这个 `有限可视区域` 区域里做到完美显示和响应，而在这个区域外少做一些操作来减少渲染的压力、网络请求压力。在 [每日 30 秒之 对海量数据进行切割](https://pushmetop.github.io/blog/chunk-for-30-seconds-of-code/) 中的使用场景，我们就是利用了 `有限可视区域` 只渲染一部分 DOM 节点来减少页面卡顿。
 
@@ -146,7 +148,7 @@ function lazyLoading() {
 
 ## 一起成长
 
-如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
+如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
 ![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
