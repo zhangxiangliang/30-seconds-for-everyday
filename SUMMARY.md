@@ -9,11 +9,13 @@
     * [数组也会秃顶](posts/sparse-array.md)
     * [字符编码排雷录](posts/unicode.md)
     * [函数参数骚操作](posts/function-params.md)
+    * [调试黑魔法](posts/super-console.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
     * [终极等于](posts/equals.md)
     * [字符编码排雷录](posts/unicode.md)
+    * [调试黑魔法](posts/super-console.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)
