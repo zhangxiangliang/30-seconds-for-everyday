@@ -90,6 +90,8 @@ function countSymbols(string) {
 console.log(countSymbols(emoji));
 ```
 
+对于其他的字符串操作，例如拼接或者替换也可以利用数组来实现。
+
 ### 反转字符串
 
 如同上面所讲 emoji 会被当做两个 `UCS-2` 字符，反转的时候 4个完整的字节会被硬生生的拆分开来，可以使用 [Esrever](https://github.com/mathiasbynens/esrever) 来解决。
@@ -121,10 +123,10 @@ console.log(emoji.split('').reverse().join(''));
 
 > 不要问我为什么知道，因为我的眼里常含泪水。
 
-## 打赏&联系
+## 一起成长
 
-如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。
+如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
-![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
+![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

@@ -100,10 +100,10 @@ function infomation ({ name:username = 'anonymous', age = 0, height = 160 } = {}
 
 当然 `解构赋值` 也可以在平常开发中使用，方便我们写出 `规范` 的 `奇淫技巧`，带来偷懒摸鱼同时也带来优雅。
 
-## 打赏&联系
+## 一起成长
 
-如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。
+如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
-![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
+![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

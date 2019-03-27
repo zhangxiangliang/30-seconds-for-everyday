@@ -58,10 +58,10 @@ const unescapeHTML = str =>
 
 除了前端输出时要进行处理，后端在存储和输出数据的时候也可以进行 html 的转换。
 
-## 打赏&联系
+## 一起成长
 
-如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。
+如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
-![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
+![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

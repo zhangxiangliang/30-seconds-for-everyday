@@ -134,10 +134,10 @@ if (window.getComputedStyle && window.getComputedStyle(document.body).scrollBeha
 
 在开发中要注意浏览器的兼容性，多使用 `caniuse` 来帮助我们参看兼容性情况。并根据产品的开发需求来书写代码，例如不需要兼容 `ie6-9` 时我们可以直接使用 `Element.scrollIntoView()`。在刚才的学习中除了学习了回到顶部外，只需再学习一下获取元素所在 `y` 轴坐标或者高度就会 `一不小心顺手` 学习了滚动到页面各处。
 
-## 打赏&联系
+## 一起成长
 
-如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。
+如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
-![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
+![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

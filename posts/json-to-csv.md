@@ -86,10 +86,10 @@ function downloadUserData(target) {
 
 一些面向百度编程的同学直接使用 `data:text/csv;charset=utf-8,${csv}` 来导出数据会出现乱码，而本文中相对网络上的版本增加了 `\ufeff` 这个BOM头来告诉 `Excel` 数据为 `UTF-8` 编码解决乱码问题。想知道更多关于 BOM 头的内容可以查看 [你所不知道的 BOM](https://pushmetop.github.io/blog/you-dont-know-bom)。
 
-## 打赏&联系
+## 一起成长
 
-如果您感觉有收获，欢迎给我打赏，以激励我输出更多的优质内容。
+如果您感觉有收获可以点赞关注我，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
-![打赏&联系](https://raw.githubusercontent.com/pushmetop/resource/master/donate/donate.png)
+![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
