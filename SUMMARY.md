@@ -2,6 +2,7 @@
 
 * 前言
     * [目录](SUMMARY.md)
+    * [成长时间线与感悟](TIMELINE.md)
     * [为什么要写每日 30 秒](README.md)
 
 * 本周最新
