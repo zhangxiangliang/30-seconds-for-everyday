@@ -2,6 +2,8 @@
 
 ## 简介
 
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+
 * 同学： 让 `大家` 同在一起求学 📚
 * 陪伴： 与 `小二` 一起成长学习 💪
 * 围绕： 从 `前端` 到 `Node.js` 进行展开 📈
@@ -12,7 +14,6 @@
 
 * [目录](SUMMARY.md)
 * [成长时间线](TIMELINE.md)
-* [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
 
 ## 一起成长
 
