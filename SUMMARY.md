@@ -10,6 +10,7 @@
     * [字符编码排雷录](posts/unicode.md)
     * [函数参数骚操作](posts/function-params.md)
     * [调试黑魔法](posts/super-console.md)
+    * [URL大爆炸](posts/url.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
