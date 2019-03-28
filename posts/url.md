@@ -77,7 +77,7 @@ console.log(url)
 
 ## search 和 searchParams
 
-##### 基础
+#### 基础
 
 `?search=a` 中 `query` 以第一个`?`开始至`行尾`或`#`结束。用于向后端传递一些数据，数据使用 `&` 进行分隔，值使用 `=` 分隔。通过一段代码来理解一下：
 
@@ -97,7 +97,7 @@ console.log(data);
 
 > 题外话：这几个库代码都挺少的，值得一读说不定有新收获。
 
-##### 加号与空格
+#### 加号与空格
 
 每天使用的 `百度` 和 `谷歌` 中不知道大家有没有主要到这几个细节：
 
@@ -107,7 +107,7 @@ console.log(data);
 
 具体原因可以查看 [维基百科](https://zh.wikipedia.org/wiki/%E7%99%BE%E5%88%86%E5%8F%B7%E7%BC%96%E7%A0%81) 关于 `保留字符的百分号编码` 。
 
-##### URL 编码
+#### URL 编码
 
 在 `掘金` 等网站点击链接都会快速的闪现类似 `http://www.pushmetop.com?redirect=xxxxx` 的 `url地址`，会发现 `redirect` 对应的重定向地址会是一堆夹带 `%` 的乱码这是为什么呢？
 
@@ -119,14 +119,16 @@ http://www.pushmetop.com?redirect=www.test.com?hello=world&id=1
 
 根据一开始的定义 `解析值` 和 `预期值` 完全不同了：
 
-```javascript
-// 解析值
+##### 解析值
+```json
 {
     "redirect": "www.test.com?hello=world",
-    "id": "1',
+    "id": "1'
 }
+```
 
-// 预期值
+##### 预期值
+```json
 {
     "redirect": "www.test.com?hello=world&id=1"
 }
