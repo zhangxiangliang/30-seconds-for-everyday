@@ -21,7 +21,7 @@ axios.get('users', {
 * bracket: `ids[]=1&ids[]=2&ids[]=3`
 * index: `ids[0]=1&ids[1]=2&ids[3]=3`
 * comma: `ids=1,2,3`
-* bracket: `ids=1&ids=2&ids=3`
+* none: `ids=1&ids=2&ids=3`
 
 小四分别测试后便把问题解决了，这也让小二想起 `小熊猫哥哥` 在开发的时候，也遇到过这个问题网上一搜发现别人用 [qs](https://www.npmjs.com/package/qs) 库中的 `stringify` 直接代码一试`没报错能运行`，不管它的原理是什么，现在想想挺可怕的。
 
