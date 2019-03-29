@@ -123,7 +123,7 @@ http://www.pushmetop.com?redirect=www.test.com?hello=world&id=1
 ```json
 {
     "redirect": "www.test.com?hello=world",
-    "id": "1'
+    "id": "1"
 }
 ```
 
