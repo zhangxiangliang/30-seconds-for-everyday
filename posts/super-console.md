@@ -89,6 +89,45 @@ star(
 );
 ```
 
+## 字符串妙用
+
+> 在新版的 chrome 已经可以直接输出函数内容了。
+
+在调试时打印函数时，往往会输出一段字符串：
+
+```javascript
+const user = {
+    greet: function () {
+        console.log('hello world')
+    }
+}
+
+// 输出: [Function: greet]
+console.log(user.greet)
+```
+
+但是在需要参看函数详情时可以利用拼接字符串来实现：
+
+##### 脚本
+
+```javascript
+const user = {
+    greet: function () {
+        console.log('hello world')
+    }
+}
+
+console.log(user.greet + '')
+```
+
+##### 输出
+
+```
+function () {
+    console.log('hello world')
+}
+```
+
 ## 其他
 
 提供一个简单的函数定义，方便大家测试本文章中的代码
