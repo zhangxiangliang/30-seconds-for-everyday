@@ -100,6 +100,45 @@ function infomation ({ name:username = 'anonymous', age = 0, height = 160 } = {}
 
 当然 `解构赋值` 也可以在平常开发中使用，方便我们写出 `规范` 的 `奇淫技巧`，带来偷懒摸鱼同时也带来优雅。
 
+## 强制传递参数
+
+除了使用参数默认值，也可以对函数参数进行强制传递参数：
+
+##### 脚本
+
+```javascript
+// 帮助函数
+const err = ( message ) => {
+    throw new Error( message );
+}
+
+// 函数
+const sum = function (
+    num = err('first param is not defined'), 
+    otherNum = err('second param is not defined')
+) {
+    return num + otherNum;
+}
+```
+
+##### 调用测试
+
+```javascript
+// 测试函数
+// 输出: 3
+console.log(sum(1, 2));
+
+// 测试第一个参数不传递
+// Uncaught Error: first param is not defined
+sum( undefined, 10 );
+
+// 测试第二个参数不传递
+// Uncaught Error: second param is not defined
+sum( 10 );
+```
+
+
+
 ## 一起成长
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
