@@ -157,7 +157,7 @@ console.log(url.searchParams.get('redirect'))
 
 `#hash` 中 `fragment` 以 `#` 为开始 `行尾` 为结束。在 [回到顶部](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/scroll.md) 中有提到过利用hash锚点来进行跳转，如果大家注意观察的话会发现 `hash` 的改变不会引起页面的刷新。
 
-在 `Angular.js`、`Vue Router` 等库中，会利用在 `html5` 中提供了 `history` 的一系列操作，来帮助我们不刷新页面管理  `url`。但是在一些旧的浏览器上并不兼容时，会利用 `hash` 不会主动触发浏览器 `reload` 的特性来修改 `location.hash` 来管理路由。 当然 `hash` 的另外一个特点是可以被保存为书签，也是一大优点。
+在 `Angular.js`、`Vue Router` 等库中，会利用在 `html5` 中提供了 `history` 的一系列操作，来帮助我们不刷新页面管理  `url`。但是在一些旧的浏览器上并不兼容时，会利用 `hash` 不会主动触发浏览器 `reload` 的特性来修改 `location.hash` 来管理路由。 当然 `hash` 的另外一个特点是可以被保存为书签。
 
 `hash` 的小妙用也可以像 `query` 那样利用 `&` 和 `=` 来存取数据，当然你也可以定制属于你的规则。
 
