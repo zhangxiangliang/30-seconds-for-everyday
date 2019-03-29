@@ -178,19 +178,21 @@ const ins = (x) => (x++, x)
 
 ### 交换数据
 
-这里谢谢 [徐永飞](https://juejin.im/user/5abf0365518825556534a140) 同学提供的：在不增加变量的情况下如何调换a和b的值。
+在不增加变量的情况下如何调换a和b的值。
 
 ```javascript
 let a = 1, b = 2;
-a=[b,b=a][0]
+a=[b, b=a][0]
 ```
 
-也谢谢 [老贼同学](https://juejin.im/user/5c00ce116fb9a049ee802de9) 的补充：也可以用 es6 的 `spread` 新语法做到：
+当然也可以用 es6 的 `spread` 新语法做到：
 
 ```
 let a = 1, b = 2;
-[a,b]=[b,a]
+[a, b]=[b, a]
 ```
+
+> 这里谢谢 [徐永飞](https://juejin.im/user/5abf0365518825556534a140) 和  [老贼同学](https://juejin.im/user/5c00ce116fb9a049ee802de9) 的补充。
 
 ## 一起成长
 
