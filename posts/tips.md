@@ -176,6 +176,22 @@ const ins = (x) => (x++, x)
 [{count: 1}].map((x) => (x.count++, x));
 ```
 
+### 交换数据
+
+这里谢谢 [徐永飞](https://juejin.im/user/5abf0365518825556534a140) 同学提供的：在不增加变量的情况下如何调换a和b的值。
+
+```javascript
+let a = 1, b = 2;
+a=[b,b=a][0]
+```
+
+也谢谢 [老贼同学](https://juejin.im/user/5c00ce116fb9a049ee802de9) 的补充：也可以用 es6 的 `spread` 新语法做到：
+
+```
+let a = 1, b = 2;
+[a,b]=[b,a]
+```
+
 ## 一起成长
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
