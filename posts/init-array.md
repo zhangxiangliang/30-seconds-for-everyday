@@ -33,7 +33,7 @@ Array.from({ length: 10 }, (val, index) => {
     return index;
 })
 
-Array.from(new Array(N), (val, index)=> {
+Array.from(new Array(10), (val, index)=> {
     // 做一些其他操作
     // 或者返回一些值
     return index;
@@ -54,7 +54,7 @@ Array.apply(null, {length: 10}).map(Function.call, (index, arr) => {
 const num = Array.apply(null, {length: 5}).map(Function.call, Number);
 
 // 输出 [0, 1, 2, 3, 4]
-console.log(num)
+console.log(num);
 ```
 
 ## spread
