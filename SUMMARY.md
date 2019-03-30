@@ -12,6 +12,7 @@
     * [调试黑魔法](posts/super-console.md)
     * [URL大爆炸](posts/url.md)
     * [优雅三连击](posts/tips.md)
+    * [优雅初始化数组](posts/init-array.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
@@ -26,6 +27,7 @@
     * [判断是否为页面底部](posts/bottom-visible.md)
 
 * 数组相关
+    * [优雅初始化数组](posts/init-array.md)
     * [数组也会秃顶](posts/sparse-array.md)
     * [海量数据切割](posts/chunk.md)
     * [优雅插入数组](posts/insert-item-inside-an-array.md)
