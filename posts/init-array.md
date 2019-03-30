@@ -4,11 +4,6 @@
 
 ## 简介
 
-> 找我请到 [掘金](https://juejin.im/user/5c8a8f1551882542704de612) 或者 [Github](https://github.com/pushmetop/30-seconds-for-everyday)
-
-> 自己也维护不过来那么多站点，对不住大家了。
-
-
 > 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
 
 
