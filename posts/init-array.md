@@ -59,7 +59,7 @@ console.log(num);
 
 ## spread
 
-当需要快速创建类似 [0, 1, 2, ...N] 这种数组时可以：
+当需要快速创建类似 [0, 1, 2, ...] 这种数组时可以：
 
 ```javascript
 const num = [...Array(5).keys()];
@@ -67,6 +67,19 @@ const num = [...Array(5).keys()];
 // 输出 [0, 1, 2, 3, 4]
 console.log(num)
 ```
+
+## Array.fill
+
+利用 new Array 配合 Array.fill 可以快速生成 [0, 0, 0, 0, ...] 这种数组：
+
+```javascript
+const num  = (new Array(5)).fill(0)
+
+// 输出: [0, 0, 0, 0, 0]
+console.log(num)
+```
+
+关于 `new Array` 会产生一个稀疏数组，可以查看 [数组也会秃顶](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/sparse-array.md)
 
 ## 清空数组
 
