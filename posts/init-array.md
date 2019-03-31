@@ -101,7 +101,7 @@ first.length = 0;
 // 输出 []
 console.log(first);
 
-// 输出 [1, 2, 3]
+// 输出 []
 console.log(second);
 ```
 
