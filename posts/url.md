@@ -73,7 +73,7 @@ console.log(url)
 
 ## protocol 和 origin
 
-`protocol` 指的便是 `协议` 最常见的有 `http` 和 `https`，当然现在浏览器再不输入协议时会自动帮你加上，不过在 `URL()` 不带上协议可是会报错的哦。`origin` 则为 `protocel` 和 `host` 拼接组成。
+`protocol` 指的便是 `协议` 最常见的有 `http` 和 `https`，当然现在浏览器再不输入协议时会自动帮你加上，不过在 `URL()` 不带上协议可是会报错的哦。`origin` 则为 `protocol` 和 `host` 拼接组成。
 
 ## search 和 searchParams
 
