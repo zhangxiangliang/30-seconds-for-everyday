@@ -6,13 +6,7 @@
     * [为什么要写每日 30 秒](WAY.md)
 
 * 本周最新
-    * [数组也会秃顶](posts/sparse-array.md)
-    * [字符编码排雷录](posts/unicode.md)
-    * [函数参数骚操作](posts/function-params.md)
-    * [调试黑魔法](posts/super-console.md)
-    * [URL大爆炸](posts/url.md)
-    * [优雅三连击](posts/tips.md)
-    * [优雅初始化数组](posts/init-array.md)
+    * [该不该优雅](posts/about-readability.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
@@ -20,6 +14,7 @@
     * [字符编码排雷录](posts/unicode.md)
     * [调试黑魔法](posts/super-console.md)
     * [优雅三连击](posts/tips.md)
+    * [该不该优雅](posts/about-readability.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)
