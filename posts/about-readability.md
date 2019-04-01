@@ -66,8 +66,6 @@ sum(numbers);
 
 很显然 `Array.reduce()` 的写法更优雅，但是在 [性能基准测试](https://jsperf.com/30-seconds-for-everyday-for-loop-vs-reduce) 中 `for 循环` 肉眼可见的快了90%。
 
-![基准测试](https://user-gold-cdn.xitu.io/2019/4/2/169da4a45a71319a?w=703&h=459&f=png&s=16889)
-
 ![基准测试](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/about-readability/loop-vs-array-reduce.png)
 
 ## 怎么办
