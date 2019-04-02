@@ -7,6 +7,7 @@
 
 * 本周最新
     * [该不该优雅](posts/about-readability.md)
+    * [H1 の 小秘密](posts/heading.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
@@ -15,6 +16,9 @@
     * [调试黑魔法](posts/super-console.md)
     * [优雅三连击](posts/tips.md)
     * [该不该优雅](posts/about-readability.md)
+
+* HTML
+    * [H1 の 小秘密](posts/heading.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)
