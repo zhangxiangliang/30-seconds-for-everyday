@@ -68,8 +68,6 @@ function infomation ({ name, age, height }) {
 > 程序员何必为难程序员。
 
 其实在调用函数时我们也是一个用户，有的参数不能为空但是我们却给出了空值，导致函数不能按预期执行。在书写函数时应该做好别人调用函数时不按套路出牌的情况，例如给出默认值和对数据进行转化：
-
-
 ```javascript
 function infomation ({ name = 'anonymous', age = 0, height = 160 }) {
     // ...
@@ -136,8 +134,6 @@ sum( undefined, 10 );
 // Uncaught Error: second param is not defined
 sum( 10 );
 ```
-
-
 
 ## 一起成长
 

@@ -4,8 +4,6 @@
 
 ## 简介
 
-
-
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 将一个数组转化为逗号为分割符的字符串（CSV）即表格数据。

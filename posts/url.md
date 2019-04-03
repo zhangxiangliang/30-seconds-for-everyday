@@ -4,8 +4,6 @@
 
 ## 简介
 
-
-
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 伴随着微信消息的提示音 `小四` 发来一段代码说 `不知道为什么请求不到页面数据`：

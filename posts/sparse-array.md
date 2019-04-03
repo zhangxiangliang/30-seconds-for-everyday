@@ -4,8 +4,6 @@
 
 ## 简介
 
-
-
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 你可能很难相信除了程序员会秃顶，数组也会秃顶。什么你不相信我？那我证明给你看：

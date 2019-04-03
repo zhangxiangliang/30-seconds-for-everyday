@@ -4,8 +4,6 @@
 
 ## 简介
 
-
-
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 > 13岁女学生被捕：因发布 JavaScript 无限循环代码。

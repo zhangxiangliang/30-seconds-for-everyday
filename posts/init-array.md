@@ -5,8 +5,6 @@
 ## 简介
 
 
-
-
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 有时候会需要对数组进行一些初始化，最常用到的便是 for 循环：
@@ -102,8 +100,6 @@ console.log(second);
 > 不再用到的内存，没有及时释放，就叫做内存泄漏。
 
 也可以利用 `list.length = 0` 来进行操作可以销毁掉数组里的所有内容，也将影响到其他引用。例子：
-
-
 ```javascript
 let first = [1,2,3];
 let second = first;

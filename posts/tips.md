@@ -4,8 +4,6 @@
 
 ## 简介
 
-
-
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 昨天一个同学在 [URL 大爆炸](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/url.md) 问了我一个问题：这是什么写法 `(data[key] = value, data) `。平时在写文章的时候会把这些技巧稍微提示一下，认为大家都知道这些技巧，引起了小二的自我反省。
@@ -35,8 +33,6 @@ console.log(test());
 ```
 
 当然也可以用 ES6 的 `spread` 语法来完成默认值，关于更多函数参数技巧可以查看 [函数骚操作](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/function-params.md)。不支持 ES6 时等需要默认值操作时，`||`一个值得使用的小技巧。
-
-
 #### 简化条件语句
 
 在开发是时候，偶尔会遇到只有一行代码的条件语句：

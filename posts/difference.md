@@ -4,8 +4,6 @@
 
 ## 简介
 
-
-
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
 根据给出的函数找出两个数组中的差集。
@@ -62,8 +60,6 @@ const difference = (a, b) => {
 // 该源码来自于 https://30secondsofcode.org
 const differenceWith = (arr, val, comp) => arr.filter(a => val.findIndex(b => comp(a, b)) === -1)
 ```
-
-
 ## 一起成长
 
 > 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
