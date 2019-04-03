@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
 
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
@@ -71,6 +71,8 @@ if ( top.location != location ) {
 当然你如果离不开小姐姐可以给浏览器装上插件，例如谷歌浏览器的 `No-Script Suite Lite`，可以添加你信任的网址到白名单之中，其他网址将被禁止脚本等操作。
 
 ## 一起成长
+
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 

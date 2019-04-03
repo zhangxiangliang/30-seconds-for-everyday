@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
 
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
@@ -115,6 +115,8 @@ h6, .h6 { @include font-size($h6-font-size); }
 如果大家在开发的时候不是只`面向企业`或者 `自己使用`，希望大家能尽量使用 `Heading 标签` 和 `语义化标签`，除了能带来 `SEO` 上的帮助还能帮助`特殊群体` 何乐而不为呢？
 
 ## 一起成长
+
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 

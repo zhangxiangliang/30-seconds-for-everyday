@@ -2,7 +2,7 @@
 
 ## 前言
 
-> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
 
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
@@ -49,6 +49,8 @@
 记录了小二在写文章是的每段感悟和改变点击 [成长时间线与感悟](TIMELINE.md)。
 
 ## 一起成长
+
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 

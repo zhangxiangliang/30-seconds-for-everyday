@@ -149,6 +149,8 @@ hub.on('resetFormData', () => {
 
 ## 一起成长
 
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
 ![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)

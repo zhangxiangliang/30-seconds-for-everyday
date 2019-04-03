@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
 
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
@@ -195,6 +195,8 @@ let a = 1, b = 2;
 > 这里谢谢 [徐永飞](https://juejin.im/user/5abf0365518825556534a140) 和  [老贼同学](https://juejin.im/user/5c00ce116fb9a049ee802de9) 的补充。
 
 ## 一起成长
+
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 

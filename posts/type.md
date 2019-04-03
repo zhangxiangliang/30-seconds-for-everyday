@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
+
 
 > 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
 
@@ -152,6 +152,8 @@ function getType(obj) {
 需要注意的是 `NaN` 在这里依旧返回的是 'number'，在 [每日 30 秒 ⏱ 终极等号](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/equals.md) 中有同学提问了为什么没有对 `NaN` 进行判断，在日常开发中出现 `NaN` 是一件不好的事情，所以小二就没有把它加到判断中去了，如果有需要可以利用 `isNaN()` 这个方法来进行判断。
 
 ## 一起成长
+
+> 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
