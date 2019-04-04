@@ -8,6 +8,7 @@
 * 本周最新
     * [该不该优雅](posts/about-readability.md)
     * [H1 の 小秘密](posts/heading.md)
+    * [SEO初体验](posts/seo-101.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
