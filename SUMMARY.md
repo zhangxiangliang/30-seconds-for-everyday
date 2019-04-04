@@ -22,6 +22,7 @@
 
 * HTML
     * [H1 の 小秘密](posts/heading.md)
+    * [SEO初体验](posts/seo-101.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)
