@@ -6,6 +6,7 @@
     * [为什么要写每日 30 秒](WAY.md)
 
 * 本周最新
+    * [小姐姐的诱惑](posts/hijack.md)
     * [该不该优雅](posts/about-readability.md)
     * [H1 の 小秘密](posts/heading.md)
     * [SEO初体验](posts/seo-101.md)
@@ -17,6 +18,7 @@
     * [调试黑魔法](posts/super-console.md)
     * [优雅三连击](posts/tips.md)
     * [该不该优雅](posts/about-readability.md)
+    * [URL 大爆炸](posts/url.md)
 
 * HTML
     * [H1 の 小秘密](posts/heading.md)
@@ -44,11 +46,16 @@
     * [CSVToJSON](posts/csv-to-json.md)
 
 * 编程思想
-    * [函数参数骚操作](posts/function-params.md)
     * [发布与订阅](posts/event.md)
+    * [函数参数骚操作](posts/function-params.md)
 
-* 安全&工具
-    * [复制内容到剪贴板](posts/copy-to-clipboard.md)
-    * [大家一起被捕吧](posts/lets-get-arrested.md)
-    * [简单的 HTTP 工具](posts/simple-http.md)
+* 测试
     * [谁敢与我一战](posts/benchmark.md)
+
+* 工具
+    * [复制内容到剪贴板](posts/copy-to-clipboard.md)
+    * [简单的 HTTP 工具](posts/simple-http.md)
+
+* 安全
+    * [小姐姐的诱惑](posts/hijack.md)
+    * [大家一起被捕吧](posts/lets-get-arrested.md)
