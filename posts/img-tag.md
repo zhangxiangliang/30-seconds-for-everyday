@@ -1,6 +1,6 @@
 <!-- # img の 小九九 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/img/poster.png)
+![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/img-tag/poster.png)
 
 ## 简介
 

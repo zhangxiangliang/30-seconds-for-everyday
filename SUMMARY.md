@@ -10,6 +10,7 @@
     * [该不该优雅](posts/about-readability.md)
     * [H1 の 小秘密](posts/heading.md)
     * [SEO初体验](posts/seo-101.md)
+    * [img の 小九九](posts/img-tag.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
@@ -23,6 +24,7 @@
 * HTML
     * [H1 の 小秘密](posts/heading.md)
     * [SEO初体验](posts/seo-101.md)
+    * [img の 小九九](posts/img-tag.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)
