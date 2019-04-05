@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 数据分割、分页、异步操作、DOM优化
 
 把数组按指定大小进行分组，可以用于分页、数据切割、异步操作数据。
 

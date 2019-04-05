@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 可读性、性能、Spread、Reduce
 
 在 [优雅三连击](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/tips.md) 中有同学提到了 `可读性` 这个关键词，就小二个人的观点 `在某个范围内使用比较常用到的小技巧，可以提升一定的可读性`，文中提到的短路运算在`初始化变量`是提升可读性的，并且在很多提倡优化`if 语句`的时候，短路运算符也可以起到对简单条件语句的优雅。
 

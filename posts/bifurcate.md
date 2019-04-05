@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 数组、拆分
 
 根据条件将数组分成两个集合。
 
