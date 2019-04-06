@@ -79,11 +79,16 @@
 ```javascript
 const urlToImgDOM = ({ url, alt = '' }) => new Promise((reslove, reject) => {
     let imgDOM = new Image();
-    imgDOM.src = url;
+    
     imgDOM.alt = alt;
     imgDOM.setAttribute("crossOrigin", 'Anonymous');
+    
     imgDOM.onload = () => reslove(imgDOM);
     imgDOM.onerror = () => reject(err);
+    
+    // 如果图片在浏览器缓存中
+    // 会不除非 onload 函数需要后置
+    imgDOM.src = url;
 })
 ```
 
