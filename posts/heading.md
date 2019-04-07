@@ -75,7 +75,7 @@ h6, .h6 { @include font-size($h6-font-size); }
 
 现在很多同学都是使用 `<div>` 和 `<span>` 来组织页面结构，已经不去在意 `Heading 标签` 带来的意义了。除了 `Heading 标签` 在 HTML5 也带来了更多语义化的标签，来帮助我们组织页面结构。
 
-在 `SEO` （搜索引擎优化）时，`小蜘蛛` 爬取页面结构时还是会用到这些语义化和结构 来了解页面信息。毕竟`小蜘蛛`并不是人能读懂页面，它们只能按照既定的规则来读取。打开掘金的一篇文章[小姐姐的诱惑](https://juejin.im/post/5ca14c53e51d451d9c1edeea)，`控制台`选择`文章标题` 便能看到使用的是 h1 标签：
+在 `SEO` （搜索引擎优化）时，`小蜘蛛` 爬取页面结构时还是会用到这些语义化和结构 来了解页面信息。毕竟`小蜘蛛`并不是人能读懂页面，它们只能按照既定的规则来读取。打开掘金的一篇文章[小姐姐的诱惑](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/hijack.md)，`控制台`选择`文章标题` 便能看到使用的是 h1 标签：
 
 ![页面标题](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/heading/title.png)
 

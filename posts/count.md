@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 数组、统计、遍历
 
 根据指定的方法或者参数对数组中的项目进行统计。
 
