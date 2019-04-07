@@ -112,6 +112,13 @@ h6, .h6 { @include font-size($h6-font-size); }
 
 如果大家在开发的时候不是只`面向企业`或者 `自己使用`，希望大家能尽量使用 `Heading 标签` 和 `语义化标签`，除了能带来 `SEO` 上的帮助还能帮助`特殊群体` 何乐而不为呢？
 
+## SEO 相关内容
+
+* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [SEO 初体验](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/seo-101.md)
+* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [千里姻缘一线牵](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
+
 ## 一起成长
 
 > 👇 更新平台多偶尔会漏掉，如果觉得文章还行点个 `star` 防走失。

@@ -181,6 +181,6 @@ http://username:password@www.pushme.top/test/blah?something=123
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
-![微信公众号](https://user-gold-cdn.xitu.io/2019/3/23/169a7432d41b5b62?w=200&h=208&f=png&s=33008)
+![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

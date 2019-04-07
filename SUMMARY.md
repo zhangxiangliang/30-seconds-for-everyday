@@ -6,11 +6,7 @@
     * [为什么要写每日 30 秒](WAY.md)
 
 * 本周最新
-    * [小姐姐的诱惑](posts/hijack.md)
-    * [该不该优雅](posts/about-readability.md)
-    * [H1 の 小秘密](posts/heading.md)
-    * [SEO初体验](posts/seo-101.md)
-    * [img の 小九九](posts/img-tag.md)
+    * [千里姻缘一线牵](posts/hyperlink.md)
 
 * 基础
     * [数据类型大乱炖](posts/type.md)
@@ -21,10 +17,15 @@
     * [该不该优雅](posts/about-readability.md)
     * [URL 大爆炸](posts/url.md)
 
-* HTML
+* 安全
+    * [小姐姐的诱惑](posts/hijack.md)
+    * [大家一起被捕吧](posts/lets-get-arrested.md)
+
+* SEO & 无障碍
     * [H1 の 小秘密](posts/heading.md)
     * [SEO初体验](posts/seo-101.md)
     * [img の 小九九](posts/img-tag.md)
+    * [千里姻缘一线牵](posts/hyperlink.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)
@@ -58,7 +59,3 @@
 * 工具
     * [复制内容到剪贴板](posts/copy-to-clipboard.md)
     * [简单的 HTTP 工具](posts/simple-http.md)
-
-* 安全
-    * [小姐姐的诱惑](posts/hijack.md)
-    * [大家一起被捕吧](posts/lets-get-arrested.md)
