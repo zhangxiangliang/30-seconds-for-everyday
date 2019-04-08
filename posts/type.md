@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 字符串、数字、布尔值、Null、Undefined、对象、数组、函数、判断方法
 
 JavaScript 中有两种数据类型，分别是基本数据类型和引用数据类型：
 

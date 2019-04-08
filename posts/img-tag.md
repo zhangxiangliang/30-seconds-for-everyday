@@ -4,9 +4,7 @@
 
 ## 简介
 
-> &lt;img&gt;、SEO、跨域、无障碍阅读、事件、图片标签
-
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> SEO、跨域、无障碍阅读、事件、图片标签
 
 `小九九` 最直接的联想便是 `九九乘法表`，但是 `小九九` 也用在形容一个人在心里打着算盘 `小主意` 和 `小秘密`。小秘密已经被 [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md) 这篇文章使用了，为了体现小二的“博学多才”就换个词语吧（其实想个词脑袋已经💥爆炸了）。
 

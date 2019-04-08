@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> console.log、调试辅助函数、调试小技巧
 
 > ⚠️ 请注意本文不是讲 console 各种方法，请不要点出去。
 

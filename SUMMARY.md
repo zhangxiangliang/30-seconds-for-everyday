@@ -38,7 +38,7 @@
     * [海量数据切割](posts/chunk.md)
     * [优雅插入数组](posts/insert-item-inside-an-array.md)
     * [对象数组分组](posts/group-by.md)
-    * [非唯一数据集](posts/non-unique.md)
+    * [唯一数据集](posts/unique.md)
     * [两个数组中的差集](posts/difference.md)
     * [统计数组项目](posts/count.md)
     * [根据条件将数组分成两个集合](posts/bifurcate.md)

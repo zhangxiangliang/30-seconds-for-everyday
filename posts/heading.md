@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> heading 标签、SEO、无障碍阅读
 
 > ps: 内容有点多，本来只想讲一个点，但是关联性太强了，所以辛苦大家了。
 

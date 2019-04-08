@@ -4,8 +4,7 @@
 
 ## 简介
 
-
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 数组、初始化、快速生成数组、内存泄露
 
 有时候会需要对数组进行一些初始化，最常用到的便是 for 循环：
 

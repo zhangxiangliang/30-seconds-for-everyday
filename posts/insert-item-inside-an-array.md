@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 数组、插入数组、性能、可读性
 
 > 代码能运行起来就行了为什么要编写优雅的代码？
 

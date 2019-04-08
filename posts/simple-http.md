@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> XMLHttpRequest、HTTP 工具原理、XHR
 
 `jQuery.ajax`、`axios` 和 新的 Web API `fetch` 在浏览器不支持的兼容代码都是利用 
  `XMLHttpRequest` 来完成网络请求，今天一起来实现一个简单的 `HTTP 请求客户端` 顺便学习`XMLHttpRequest` 中较为常用的函数方法：

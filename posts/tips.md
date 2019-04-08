@@ -4,7 +4,7 @@
 
 ## 简介
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 短路运算、逗号运算、简化条件语句、初始化小技巧
 
 昨天一个同学在 [URL 大爆炸](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/url.md) 问了我一个问题：这是什么写法 `(data[key] = value, data) `。平时在写文章的时候会把这些技巧稍微提示一下，认为大家都知道这些技巧，引起了小二的自我反省。
 
