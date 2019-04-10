@@ -3,6 +3,8 @@
 * 本周最新
     * [千里姻缘一线牵](posts/hyperlink.md)
     * [投怀送抱](posts/sitemap.md)
+    * [漫游器法则](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
+
 
 * 前言
     * [目录](SUMMARY.md)
@@ -27,6 +29,7 @@
     * [SEO初体验](posts/seo-101.md)
     * [img の 小九九](posts/img-tag.md)
     * [千里姻缘一线牵](posts/hyperlink.md)
+    * [漫游器法则](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)
