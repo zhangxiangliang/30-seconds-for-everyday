@@ -131,6 +131,6 @@ http://pushme.top/30-seconds-for-everyday
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
-![微信公众号](https://user-gold-cdn.xitu.io/2019/4/8/169f9210d75bfc51?w=200&h=208&f=png&s=33008)
+![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)

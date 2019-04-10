@@ -83,7 +83,7 @@ Disallow: /equation
 
 可以看到`掘金漫游器法则`还是相对宽松的，限制了访问评率和不应该访问网页，没有对具体的 `百度漫游器` 和 `谷歌漫游器` 等作出限制，所以同学也可以写 `漫游器` 来爬取掘金的部分内容。比如今天的沸点中就看到了：
 
-![今日掘学](https://user-gold-cdn.xitu.io/2019/4/10/16a06fa930573872?w=785&h=280&f=jpeg&s=40797)
+![今日掘学](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/robot-txt/juejin.png)
 
 ## SEO 相关内容
 
@@ -98,7 +98,7 @@ Disallow: /equation
 
 关于 `robot.txt` 生成的工具这里推荐 [robots文件生成](http://tool.chinaz.com/robots) 简单易用。
 
-小二在这里只讨论了一些`力所能及` 且 `容易做到` 的 SEO 内容，关于 SEO 相关的内容就讨论到这里了。虽然 `语义化标签` 这部分内容也对 SEO 有所帮助，但是实践起来挺难做到的，如果小二有想简单且容易理解的方法到时候再补上这篇。
+小二在这里只讨论了一些 `力所能及` 且 `容易做到` 的 SEO 内容，关于 SEO 相关的内容就讨论到这里了。虽然 `语义化标签` 这部分内容也对 SEO 有所帮助，但是实践起来挺难做到的，如果小二有想简单且容易理解的方法到时候再补上这篇。
 
 ## 一起成长
 
@@ -106,6 +106,6 @@ Disallow: /equation
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
 
-![微信公众号](https://user-gold-cdn.xitu.io/2019/4/8/169f9210d75bfc51?w=200&h=208&f=png&s=33008)
+![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
 > 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
