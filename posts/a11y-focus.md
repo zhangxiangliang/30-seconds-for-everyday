@@ -4,9 +4,9 @@
 
 ## 简介
 
-> 无障碍、HTML 小细节、焦点、a11y、Accessibility
+> 无障碍、HTML 小细节、焦点、a11y、Accessibility、框架选择
 
-无障碍开发还是应该从 `HTML` 开始聊起，，无论是盲人阅读器还是浏览器等工具最核心的部分还是在 `HTML`，毕竟没了 `CSS` 只是不美观了，没了 `JavaScript` 只是少了交互和无限扩展的可能性。
+无障碍开发还是应该从 `HTML` 开始聊起，无论是盲人阅读器还是浏览器等工具最核心的部分还是在 `HTML`，毕竟没了 `CSS` 只是不美观了，没了 `JavaScript` 只是少了交互和无限扩展的可能性。
 
 ## 键盘与交互
 
@@ -18,7 +18,7 @@
 
 运动觉障碍的用户，例如霍金大大就可以利用他的三个指头配合 `tab` 和 `shift + tab` 来浏览 `掘金` 并在掘金上做交互性的操作。除此之外键盘上的 `方向键` 也是移动和浏览页面必不可少的一部分，你可以使用 `上下键` 来是的页面可以上下滚动，也可以在 `select 标签` 中选择选项。
 
-> 更多无障碍群体内容可以阅读 [无障碍世界](https://juejin.im/post/5cae8c1d5188251ad443bd94)
+> 更多无障碍群体内容可以阅读 [无障碍世界](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
 
 ## 调试工具
 
@@ -47,7 +47,7 @@ console.log(allTagsDOM);
 除了 `交互标签` 中提到的标签外都属于 `非交互标签`，有些开发老司机可能会问：
 
 * 如果想让 `非交互标签` 变成 `交互标签` 怎么办？
-* 当使用自己定义的结构来实现 select 或者 button 等标签的时候怎么办？
+* 使用自定义标签例如 select 或者 button 怎么办？
 
 ### 变成交互标签
 
@@ -82,7 +82,7 @@ console.log(allTagsDOM);
 
 #### 破坏显示顺序
 
-除此之外当使用 css 样式 `float: right` 改变页面渲染的排列顺序也可能会造成影响，对于习惯从右向左阅读的用户来说会造成困惑，一时间找不到焦点的位置。
+除此之外当使用 css 样式 `float: right` 改变页面渲染的排列顺序也可能会造成影响，对于习惯从右向左阅读的用户来说会造成困惑找不到焦点的位置。
 
 ##### 代码
 
@@ -102,9 +102,9 @@ console.log(allTagsDOM);
 
 ### 自定义元素
 
-当自定义元素时需要把元素默认的 `焦点` 功能模拟出来进行替换即可。。在上文提到了 `非互动标签` 转换 `互动标签` 利用 `tabindex` 这个属性来完成，其实还有一个小技巧利用 `tabindex=-1` 设置标签后，对应的 DOM 节点将会拥有 `focus()` 方法，利用这一点可以配合 `JavaScript` 可以实现非常多的功能。
+当自定义元素时需要把元素默认的 `焦点` 功能模拟出来进行替换即可。在上文提到了 `非互动标签` 转换 `互动标签` 利用 `tabindex` 这个属性来完成，其实还有一个小技巧利用 `tabindex=-1` 设置标签后，对应的 DOM 节点将会拥有 `focus()` 方法，利用这一点可以配合 `JavaScript` 可以实现非常多的功能。
 
-主要需要注意的是 `tab键`、`enter键`、`方向键` 的功能。
+主要需要注意的是 `tab键`、`enter键`、`方向键`、`space键` 的功能。
 
 ## 看不见的元素
 
@@ -117,7 +117,7 @@ console.log(allTagsDOM);
 
 这个时候的解决方法便是使用 `display:none` 或者 `visibility:hidden` 来控制标签不在 `tab` 的选着范围中。两者区别是 `display:none` 会让元素在渲染树中消失，不占用任何空间，`visibility:hidden` 则保留元素占据的空间，也依旧在渲染树中。当需要的时候使用 `display:block` 和 `visibility:visible` 进行显示。
 
-> 掘金的隐藏菜单做的挺好的，不会让焦点跳转到 `隐藏菜单`，美中不足的是只能通过鼠标悬浮来 `显示菜单` ，不能通过 `tab` 和 `enter` 进行选中操作。
+> 掘金的隐藏菜单做得挺好的，不会让焦点跳转到 `隐藏菜单`，美中不足的是只能通过鼠标悬浮来 `显示菜单` ，不能通过 `tab` 和 `enter` 进行选中操作。
 
 
 ## 实例
@@ -225,6 +225,25 @@ console.log(allTagsDOM);
 * 设置第一个 `tag` 的属性为 `focus()`。
 * 设置最后一个 `tag` 被点击时需要循环重置到第一个 `tag`。
 * 如果关闭 `Alert` 则通过一开始记录的`焦点元素`和页面 `x` 和 `y` 坐标进行恢复。
+
+### 自定义元素
+
+在 Element UI 中的自定义元素都做得不错，就是对于视障用户 `焦点focus` 的颜色区分度不够，就连小二自己都看不清已选择的元素时被`focus`在哪里，不过可以通过修改 `is-focus` 来修改样式颜色：
+
+* [Radio](http://element-cn.eleme.io/#/zh-CN/component/radio) 无障碍中 `tab` 和 `space` 都有实现。
+* [Checkbox](http://element-cn.eleme.io/#/zh-CN/component/checkbox) 无障碍中 `tab` 和 `space` 都有实现。
+* [Select](http://element-cn.eleme.io/#/zh-CN/component/select) 无障碍中 `tab` 和 `enter` 都有实现。
+* [TimePicker](http://element-cn.eleme.io/#/zh-CN/component/time-picker)无障碍中 `tab` 和 `enter`、`方向键` 都有实现。
+
+在 Ant Design 无障碍相关的 `交互元素` 就做得不怎么好了，如果产品目标群体中有需要 `无障碍` 相关的服务，在选择框架时可以试试其中的 `交互元素` 做得如何，毕竟站在巨人的肩膀上比自己造轮子`快又好`。
+
+
+## 无障碍相关内容
+
+* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [无障碍世界](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
+* [扼住焦点的喉咙](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-foucs.md)
 
 ## 一起成长
 
