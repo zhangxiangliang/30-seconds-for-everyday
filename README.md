@@ -17,6 +17,7 @@
     * [投怀送抱](posts/sitemap.md)
     * [漫游器法则](posts/robot-txt.md)
     * [无障碍世界](posts/a11y-101.md)
+    * [扼住焦点的喉咙](posts/a11y-focus.md)
 
 * 前言
     * [目录](SUMMARY.md)
@@ -44,6 +45,7 @@
     * [投怀送抱](posts/sitemap.md)
     * [漫游器法则](posts/robot-txt.md)
     * [无障碍世界](posts/a11y-101.md)
+    * [扼住焦点的喉咙](posts/a11y-focus.md)
 
 * 可视区域
     * [巧用可视区域](posts/in-viewport.md)
