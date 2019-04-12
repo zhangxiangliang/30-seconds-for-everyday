@@ -235,8 +235,7 @@ console.log(allTagsDOM);
 * [Select](http://element-cn.eleme.io/#/zh-CN/component/select) 无障碍中 `tab` 和 `enter` 都有实现。
 * [TimePicker](http://element-cn.eleme.io/#/zh-CN/component/time-picker)无障碍中 `tab` 和 `enter`、`方向键` 都有实现。
 
-在 Ant Design 无障碍相关的 `交互元素` 就做得不怎么好了，如果产品目标群体中有需要 `无障碍` 相关的服务，在选择框架时可以试试其中的 `交互元素` 做得如何，毕竟站在巨人的肩膀上比自己造轮子`快又好`。
-
+`Material UI` 在无障碍上就做得非常好，而在 `Ant Design` 无障碍相关的 `交互元素` 就做得不怎么好了，如果产品目标群体中有需要 `无障碍` 相关的服务，在选择框架时可以试试其中的 `交互元素` 做得如何，毕竟站在巨人的肩膀上比自己造轮子`快又好`。
 
 ## 无障碍相关内容
 
