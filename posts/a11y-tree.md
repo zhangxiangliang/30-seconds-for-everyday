@@ -215,7 +215,7 @@
 
 浏览器在渲染的时候会构建 DOM 树，而无障碍工具在理解页面的时候则通过 `无障碍树` 来让 `特殊群体` 理解页面。其实开发过程中离 `无障碍树` 相当近只不过大家一直都没有注意，打开控制台选择 `Accessibility` 即可看到：
 
-![无障碍树](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-tree/console.gif)
+![无障碍树](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-tree/console.png)
 
 无障碍树的构建便是通过 `语义化` 来实现的，点开 banner、main、contentinfo 进行具体内容查看，而构成无障碍树节点由：Role, Name, State, Value 组成。
 
@@ -243,6 +243,14 @@
 最推荐的方式还是使用 `无障碍` 做得好的框架来开发，可以帮助我们快速的实现 `无障碍`，这里引用`二哲`的一句话：
 
 > 无障碍我就服 `material ui`。
+
+## 无障碍相关内容
+
+* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [无障碍世界](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
+* [扼住焦点的喉咙](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-foucs.md)
+* [语义化与无障碍树](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-tree.md)
 
 ## 一起成长
 
