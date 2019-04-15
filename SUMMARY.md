@@ -1,12 +1,7 @@
 # 目录
 
 * 本周最新
-    * [千里姻缘一线牵](posts/hyperlink.md)
-    * [投怀送抱](posts/sitemap.md)
-    * [漫游器法则](posts/robot-txt.md)
-    * [无障碍世界](posts/a11y-101.md)
-    * [扼住焦点的喉咙](posts/a11y-focus.md)
-    * [公众号风波](posts/wechat.md)
+    * [语义化与无障碍树](posts/a11y-tree.md)
 
 * 前言
     * [目录](SUMMARY.md)
@@ -34,6 +29,7 @@
     * [漫游器法则](posts/robot-txt.md)
     * [无障碍世界](posts/a11y-101.md)
     * [扼住焦点的喉咙](posts/a11y-focus.md)
+    * [语义化与无障碍树](posts/a11y-tree.md)
 
 * 公众号开发
     * [公众号风波](posts/wechat.md)
