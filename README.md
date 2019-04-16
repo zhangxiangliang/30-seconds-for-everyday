@@ -14,6 +14,7 @@
 
 * 本周最新
     * [语义化与无障碍树](posts/a11y-tree.md)
+    * [HTML Cosplay](posts/a11y-aria.md)
 
 * 前言
     * [目录](SUMMARY.md)
@@ -43,6 +44,7 @@
     * [无障碍世界](posts/a11y-101.md)
     * [扼住焦点的喉咙](posts/a11y-focus.md)
     * [语义化与无障碍树](posts/a11y-tree.md)
+    * [HTML Cosplay](posts/a11y-aria.md)
 
 * 公众号开发
     * [公众号风波](posts/wechat.md)
