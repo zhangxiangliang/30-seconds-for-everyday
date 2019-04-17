@@ -65,7 +65,7 @@
 * 是否可以指定一个规范？
 * 是否可以通过 `cosplay` 来把 `div 标签` 变成 `nav 标签`？
 
-妈耶你们也真的是太聪明啦！确实存在这一个规范叫做 `Web Accessibility Initiative - Accessible Rich Internet Applications` 缩写 WAI-ARIA，它的作用就和同学们想到的一样通过角色扮演来描述 `html` 使得 `视力障碍` 用户可以理解 `html` 所表达的含义。
+确实存在一个规范叫做 `Web Accessibility Initiative - Accessible Rich Internet Applications` 缩写 WAI-ARIA，它的作用就和同学们想到的一样通过角色扮演来描述 `html` 使得 `视力障碍` 用户可以理解 `html` 所表达的含义。
 
 使用 `WAI-ARIA` 来表单 `nav 标签`，屏幕阅读器便会帮助`视障用户`识别出是导航 ：
 
@@ -80,7 +80,7 @@
 
 好奇宝宝肯定会问：可是有的页面有 `主导航` 和 `副导航` 甚至还有 `面包屑导航`、`奇奇怪怪不知道什么的导航` 正常用户可以通过视觉秒理解是什么，那视障用户怎么办呢？
 
-妈耶你们真的是有够聪明，居然能想到这么厉害的问题，不过没关系 `WAI-ARIA` 已经定义好了通过 `aria-label` 标签来描述是什么：
+居然能想到这么厉害的问题，不过没关系 `WAI-ARIA` 已经定义好了通过 `aria-label` 标签来描述是什么：
 
 ```html
 <div class="navigation"
