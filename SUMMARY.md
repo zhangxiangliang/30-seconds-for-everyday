@@ -6,6 +6,9 @@
     * [为什么要写每日 30 秒](WAY.md)
     * [强风吹拂](posts/running.md)
 
+* 理财
+    * [你的钱可能正在变少](posts/inflation.md)
+
 * 基础
     * [数据类型大乱炖](posts/type.md)
     * [终极等于](posts/equals.md)
