@@ -83,6 +83,11 @@
     * [复制内容到剪贴板](posts/copy-to-clipboard.md)
     * [简单的 HTTP 工具](posts/simple-http.md)
 
+## 其他仓库
+
+* [轻松学理财](https://github.com/pushmetop/personal-financial-planning)
+* [什么值得读](https://github.com/pushmetop/reading-lists)
+
 ## 一起成长
 
 如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
