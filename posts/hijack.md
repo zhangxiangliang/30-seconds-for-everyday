@@ -74,7 +74,6 @@ if ( top.location != location ) {
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
 * 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
-* 如果您想与小二更多交流添加微信 `m353839115`。
 
 ![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
 
