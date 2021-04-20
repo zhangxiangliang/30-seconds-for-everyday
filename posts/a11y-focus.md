@@ -16,7 +16,7 @@
 
 在掘金个人主页里按下 `tab` 键后，蓝色的`焦点`框会从 logo 到 首页一个个链接遍历下来，在这个过程中可以发现 `链接`、`按钮`、`搜索框` 都会产生焦点。细心的同学如果打开控制台会还会发现，跳转的顺序和标签在 HTML 中出现的`先后顺序`有关。
 
-![掘金焦点](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-focus/juejin.png)
+![掘金焦点](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-focus/juejin.gif)
 
 运动觉障碍的用户，例如霍金大大就可以利用他的三个指头配合 `tab` 和 `shift + tab` 来浏览 `掘金` 并在掘金上做交互性的操作。除此之外键盘上的 `方向键` 也是移动和浏览页面必不可少的一部分，你可以使用 `上下键` 来是的页面可以上下滚动，也可以在 `select 标签` 中选择选项。
 
