@@ -1,12 +1,12 @@
 <!-- # 优雅三连击 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/tips/poster.png)
+![封面](../images/tips/poster.png)
 
 ## 简介
 
 > 短路运算、逗号运算、简化条件语句、初始化小技巧
 
-昨天一个同学在 [URL 大爆炸](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/url.md) 问了我一个问题：这是什么写法 `(data[key] = value, data) `。平时在写文章的时候会把这些技巧稍微提示一下，认为大家都知道这些技巧，引起了小二的自我反省。
+昨天一个同学在 [URL 大爆炸](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/url.md) 问了我一个问题：这是什么写法 `(data[key] = value, data) `。平时在写文章的时候会把这些技巧稍微提示一下，认为大家都知道这些技巧，引起了小二的自我反省。
 
 > 希望大家可以一起成长，都不掉队。
 
@@ -32,7 +32,7 @@ function test(name) {
 console.log(test());
 ```
 
-当然也可以用 ES6 的 `spread` 语法来完成默认值，关于更多函数参数技巧可以查看 [函数骚操作](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/function-params.md)。不支持 ES6 时等需要默认值操作时，`||`一个值得使用的小技巧。
+当然也可以用 ES6 的 `spread` 语法来完成默认值，关于更多函数参数技巧可以查看 [函数骚操作](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/function-params.md)。不支持 ES6 时等需要默认值操作时，`||`一个值得使用的小技巧。
 #### 简化条件语句
 
 在开发是时候，偶尔会遇到只有一行代码的条件语句：
@@ -195,8 +195,6 @@ let a = 1, b = 2;
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

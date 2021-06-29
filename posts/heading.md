@@ -1,6 +1,6 @@
 <!-- # H1 の 小秘密 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/heading/poster.png)
+![封面](../images/heading/poster.png)
 
 ## 简介
 
@@ -75,13 +75,13 @@ h6, .h6 { @include font-size($h6-font-size); }
 
 现在很多同学都是使用 `<div>` 和 `<span>` 来组织页面结构，已经不去在意 `Heading 标签` 带来的意义了。除了 `Heading 标签` 在 HTML5 也带来了更多语义化的标签，来帮助我们组织页面结构。
 
-在 `SEO` （搜索引擎优化）时，`小蜘蛛` 爬取页面结构时还是会用到这些语义化和结构 来了解页面信息。毕竟`小蜘蛛`并不是人能读懂页面，它们只能按照既定的规则来读取。打开掘金的一篇文章[小姐姐的诱惑](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/hijack.md)，`控制台`选择`文章标题` 便能看到使用的是 h1 标签：
+在 `SEO` （搜索引擎优化）时，`小蜘蛛` 爬取页面结构时还是会用到这些语义化和结构 来了解页面信息。毕竟`小蜘蛛`并不是人能读懂页面，它们只能按照既定的规则来读取。打开掘金的一篇文章[小姐姐的诱惑](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/hijack.md)，`控制台`选择`文章标题` 便能看到使用的是 h1 标签：
 
-![页面标题](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/heading/title.png)
+![页面标题](../images/heading/title.png)
 
 通过 `h1` 组织页面结构告诉 `小蜘蛛` 这个页面的标题是什么，`小蜘蛛`也会把这个存储起来，当在搜索引擎搜索 `小姐姐的诱惑` 等相关词语时，就能找到这篇文章啦。当然在页面右侧变是文章目录：
 
-![文章目录](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/heading/contents.png)
+![文章目录](../images/heading/contents.png)
 
 是不是非常方便我们查看文章结构，进行内容的跳转呢？
 
@@ -95,7 +95,7 @@ h6, .h6 { @include font-size($h6-font-size); }
 
 如果大家都一味的使用 `<div>` 和 `<span>` 特殊群体用户只能一个个 `dom` 节点听过去了，大家感兴趣可以打开`无障碍模式`试试看。`iPhone` 用户最常用的 `辅助控制器` 其实是设计给`特殊群体`使用的：
 
-![辅助控制器](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/heading/iphone.png)
+![辅助控制器](../images/heading/iphone.png)
 
 可以看到 `自定义` 中可以模拟 `缩放` 和 `三维粗触控` 等操作，这样像`霍金`大大也可以使用`iPhone`进行缩放等特殊操作了，送上一句`霍金`大大的名言：
 
@@ -114,20 +114,18 @@ h6, .h6 { @include font-size($h6-font-size); }
 
 ## SEO 相关内容
 
-* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
-* [SEO 初体验](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/seo-101.md)
-* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
-* [千里姻缘一线牵](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
-* [投怀送抱](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/sitemap.md)
-* [漫游器法则](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
+* [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [SEO 初体验](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/seo-101.md)
+* [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [千里姻缘一线牵](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
+* [投怀送抱](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/sitemap.md)
+* [漫游器法则](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

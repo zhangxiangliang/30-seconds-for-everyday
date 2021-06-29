@@ -2,7 +2,7 @@
 
 ## 前言
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/zhangxiangliang/30-seconds-for-everyday) 👈
 
 #### 每日 30 秒是什么？
 
@@ -30,7 +30,7 @@
 
 #### 怎么参与和提供文章点子？
 
-> 你可以 `Fork` 项目进行修改和文章发布，也可以到 [issues](https://github.com/pushmetop/30-seconds-for-everyday/issues) 中给出你希望看到的相关内容，小二会尽量完成。
+> 你可以 `Fork` 项目进行修改和文章发布，也可以到 [issues](https://github.com/zhangxiangliang/30-seconds-for-everyday/issues) 中给出你希望看到的相关内容，小二会尽量完成。
 
 #### 关于版权
 
@@ -51,8 +51,6 @@
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

@@ -1,12 +1,12 @@
 <!-- # 该不该优雅 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/about-readability/poster.png)
+![封面](../images/about-readability/poster.png)
 
 ## 简介
 
 > 可读性、性能、Spread、Reduce
 
-在 [优雅三连击](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/tips.md) 中有同学提到了 `可读性` 这个关键词，就小二个人的观点 `在某个范围内使用比较常用到的小技巧，可以提升一定的可读性`，文中提到的短路运算在`初始化变量`是提升可读性的，并且在很多提倡优化`if 语句`的时候，短路运算符也可以起到对简单条件语句的优雅。
+在 [优雅三连击](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/tips.md) 中有同学提到了 `可读性` 这个关键词，就小二个人的观点 `在某个范围内使用比较常用到的小技巧，可以提升一定的可读性`，文中提到的短路运算在`初始化变量`是提升可读性的，并且在很多提倡优化`if 语句`的时候，短路运算符也可以起到对简单条件语句的优雅。
 
 ```javascript
 // 优雅前
@@ -38,7 +38,7 @@ const useAssign = Object.assign({}, { age: 18 }, params);
 
 这两种方法 `spread` 语法显然更优雅，但是在 [性能基准测试](https://jsperf.com/30-seconds-for-everyday-comparing-object-asign-spread) 中 `Object.assign()` 肉眼可见的快了50%-60%。
 
-![基准测试](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/about-readability/spread-vs-object-assign.png)
+![基准测试](../images/about-readability/spread-vs-object-assign.png)
 
 ## Reduce
 
@@ -64,7 +64,7 @@ sum(numbers);
 
 很显然 `Array.reduce()` 的写法更优雅，但是在 [性能基准测试](https://jsperf.com/30-seconds-for-everyday-for-loop-vs-reduce) 中 `for 循环` 肉眼可见的快了90%。
 
-![基准测试](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/about-readability/loop-vs-array-reduce.png)
+![基准测试](../images/about-readability/loop-vs-array-reduce.png)
 
 ## 怎么办
 
@@ -88,18 +88,16 @@ sum(numbers);
 
 ## 其他
 
-* 关于 `基准测试` 更多操作可以查看 [谁敢与我一战](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/benchmark.md) 。
-* 关于 `spread` 更多操作可以查看 [函数参数骚操作](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/function-params.md)。
-* 关于基准测试中`快速初始化`测试数组可以查看 [优雅初始化数组](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/init-array.md)。
-* 关于`大量数据优化`可以查看 [海量数据切割](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/chunk.md)。
+* 关于 `基准测试` 更多操作可以查看 [谁敢与我一战](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/benchmark.md) 。
+* 关于 `spread` 更多操作可以查看 [函数参数骚操作](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/function-params.md)。
+* 关于基准测试中`快速初始化`测试数组可以查看 [优雅初始化数组](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/init-array.md)。
+* 关于`大量数据优化`可以查看 [海量数据切割](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/chunk.md)。
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

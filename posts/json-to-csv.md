@@ -1,12 +1,12 @@
 <!-- # JSONToCSV -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/json-to-csv/poster.png)
+![封面](../images/json-to-csv/poster.png)
 
 ## 简介
 
 > 数组、对象、CSV、表格、工具
 
-我们在 [每日 30 秒之 arrayToCSV](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/array-to-csv.md) 中一起学习了将数组数据转化为 `csv` 表格数据并导出，那如果是对象数组怎么办呢？小脑袋瓜转得快的同学肯定会说：“使用 `Array.prototype.map` 把需要导出的字段先遍历取出，再使用 `arrayToCSV` 将其导出为 CSV 数据表格。”
+我们在 [每日 30 秒之 arrayToCSV](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/array-to-csv.md) 中一起学习了将数组数据转化为 `csv` 表格数据并导出，那如果是对象数组怎么办呢？小脑袋瓜转得快的同学肯定会说：“使用 `Array.prototype.map` 把需要导出的字段先遍历取出，再使用 `arrayToCSV` 将其导出为 CSV 数据表格。”
 
 可是你有没有想过如果一个对象数组数据非常之大时，使用 `Array.prototype.map` 和 `arrayToCSV` 将会多出一倍的数据遍历操作。作为优化狂魔的我们（那之前文章的使用场景还这么用！！！）肯定不允许这种事情发生，那就一起来学习一个用于对象数组且少花一半时间的转换表格函数。
 
@@ -84,15 +84,13 @@ function downloadUserData(target) {
 }
 ```
 
-一些面向百度编程的同学直接使用 `data:text/csv;charset=utf-8,${csv}` 来导出数据会出现乱码，而本文中相对网络上的版本增加了 `\ufeff` 这个BOM头来告诉 `Excel` 数据为 `UTF-8` 编码解决乱码问题。想知道更多关于 BOM 头的内容可以查看 [你所不知道的 BOM](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/bom.md)。
+一些面向百度编程的同学直接使用 `data:text/csv;charset=utf-8,${csv}` 来导出数据会出现乱码，而本文中相对网络上的版本增加了 `\ufeff` 这个BOM头来告诉 `Excel` 数据为 `UTF-8` 编码解决乱码问题。想知道更多关于 BOM 头的内容可以查看 [你所不知道的 BOM](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/bom.md)。
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

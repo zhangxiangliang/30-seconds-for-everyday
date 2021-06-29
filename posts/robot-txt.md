@@ -1,6 +1,6 @@
 <!-- # 漫游器法则 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/robot-txt/poster.png)
+![封面](../images/robot-txt/poster.png)
 
 ## 简介
 
@@ -38,11 +38,11 @@
 * 文章评论 `https://pushme.top/posts/1/comments` 用路径表达 `/posts/*/comments`
 * 样式文件 `https://pushme.top/assets/styles/main.css` 用路径表达 `/assets/styles/*.css$`
  
-> 更多 URL 详细内容可以查看 [URL 大爆炸](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/url.md)
+> 更多 URL 详细内容可以查看 [URL 大爆炸](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/url.md)
 
 ### 星系推荐法则
 
-在 [投怀送抱](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/sitemap.md) 中介绍了 `sitemap` 网页地图，用于告诉`漫游器`哪些网站哪些页面值得访问。通过 `Sitemap:` 来指定 `Sitemap: https://pushme.top/sitemap.xml`。
+在 [投怀送抱](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/sitemap.md) 中介绍了 `sitemap` 网页地图，用于告诉`漫游器`哪些网站哪些页面值得访问。通过 `Sitemap:` 来指定 `Sitemap: https://pushme.top/sitemap.xml`。
 
 ### 单双号法则
 
@@ -83,16 +83,16 @@ Disallow: /equation
 
 可以看到`掘金漫游器法则`还是相对宽松的，限制了访问评率和不应该访问网页，没有对具体的 `百度漫游器` 和 `谷歌漫游器` 等作出限制，所以同学也可以写 `漫游器` 来爬取掘金的部分内容。比如今天的沸点中就看到了：
 
-![今日掘学](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/robot-txt/juejin.png)
+![今日掘学](../images/robot-txt/juejin.png)
 
 ## SEO 相关内容
 
-* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
-* [SEO 初体验](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/seo-101.md)
-* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
-* [千里姻缘一线牵](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
-* [投怀送抱](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/sitemap.md)
-* [漫游器法则](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
+* [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [SEO 初体验](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/seo-101.md)
+* [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [千里姻缘一线牵](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
+* [投怀送抱](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/sitemap.md)
+* [漫游器法则](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
 
 ## 其他
 
@@ -105,8 +105,6 @@ Disallow: /equation
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

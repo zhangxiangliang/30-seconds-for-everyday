@@ -1,10 +1,10 @@
 # 世界が终わるまでは
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/timeline/poster.png)
+![封面](./images/timeline/poster.png)
 
 ## 前言
 
-> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 👈
+> 👉 [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/zhangxiangliang/30-seconds-for-everyday) 👈
 
 文章的题目 `世界が终わるまでは` 是来着`《灌篮高手》` ED 翻译成中文就是 `直到世界的尽头`。`《灌篮高手》`是小二最喜欢的一部漫画作品了，这也是一部结尾没有 `Happy Ending` 的漫画，正应了那句话：
 
@@ -76,8 +76,6 @@
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

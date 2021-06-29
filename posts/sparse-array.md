@@ -1,6 +1,6 @@
 <!-- # 数组也会秃顶 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/sparse-array/poster.png)
+![封面](../images/sparse-array/poster.png)
 
 ## 简介
 
@@ -38,7 +38,7 @@ arr.forEach(i => console.log(i))
 
 其实在控制台中可以非常明显的看出`密集数组`和`稀疏数组`的索引是否连续：
 
-![对比](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/sparse-array/compare.png)
+![对比](../images/sparse-array/compare.png)
 
 ## 稀疏数组转换密集数组
 
@@ -129,8 +129,6 @@ method(...['a',, 'c']);
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

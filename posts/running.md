@@ -1,6 +1,6 @@
 <!-- # 强风吹拂 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/running/poster.png)
+![封面](../images/running/poster.png)
 
 > 感悟、反思、重启
 
@@ -8,7 +8,7 @@
 
 某天清晨没有原因的醒了，害怕时间被手机`没收`只能迷茫的盯着天花板。不知道过了多久隐隐约约听到打鸣声，还是克制不住拿起了手机。按照惯例一般刷刷掘金和知乎，可是在心中莫名的抗拒下打开了视频看到了一个奇怪的名字《强风吹拂》。
 
-![你喜欢跑步吗](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/running/run.png)
+![你喜欢跑步吗](../images/running/run.png)
 
 > “你喜欢跑步吗？”
 
@@ -30,7 +30,7 @@
 
 其实我一直都非常喜欢`真实`的故事，因为某一瞬间会让我`感同身受`。上一部让我不厌其烦重复观看的漫画是《灌篮高手》，从头像到桌面壁纸到鼠标垫全是系列相关，还曾一度模仿樱木花道 剪了一个大光头来`铭记`自己做下的一次重大决定。
 
-![灌篮高手](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/running/cry.png)
+![灌篮高手](../images/running/cry.png)
 
 《灌篮高手》中更多的是为了梦想拼尽全力、肆意妄为、心有不甘的青春，成年后的我其实已经`看透`很多，对这种感觉渐渐失去了。为什么还喜欢和重复观看呢？
 
@@ -92,8 +92,6 @@
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

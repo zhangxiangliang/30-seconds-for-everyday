@@ -1,6 +1,6 @@
 <!-- # 小姐姐的诱惑 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/hijack/poster.png)
+![封面](../images/hijack/poster.png)
 
 ## 简介
 
@@ -28,7 +28,7 @@
 
 这里只是简单介绍了一下 `点击劫持` 的概念，如果去调用一些危险操作的页面（转账，付款，重置密码，注销账号），在开通小额免密支付的情况下，也许会在完全不知情的情况带来很多损失。
 
-它还能配合一些其他攻击完成更复杂的操作，比如之前 [大家一起被捕吧](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/lets-get-arrested.md) 提到的 `JavaScript 注入攻击` 也可以配合 `点击劫持` 和 `复制黏贴`，来诱导你进行文本输入并提交文本到`被攻击站点`。甚至可以利用 `iframe` 来做到绕过 `CSRF` 进行对站点进行攻击，这些安全相关的知识感兴趣大家可以自己查阅。
+它还能配合一些其他攻击完成更复杂的操作，比如之前 [大家一起被捕吧](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/lets-get-arrested.md) 提到的 `JavaScript 注入攻击` 也可以配合 `点击劫持` 和 `复制黏贴`，来诱导你进行文本输入并提交文本到`被攻击站点`。甚至可以利用 `iframe` 来做到绕过 `CSRF` 进行对站点进行攻击，这些安全相关的知识感兴趣大家可以自己查阅。
 
 ## 再见小姐姐
 
@@ -44,7 +44,7 @@
 
 关注小二的同学知道小二很喜欢泡在`掘金`，为什么这次举例是贴吧而不是 `掘金` 呢？因为掘金利用了 `X-FRAME-OPTIONS` 来防止自己被非同源网站 iframe 引入，不信你可以试试看。相信你也会得到和我一样的页面提示：
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/hijack/juejin.png)
+![封面](../images/hijack/juejin.png)
 
 #### 增加操作难度
 
@@ -73,8 +73,6 @@ if ( top.location != location ) {
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

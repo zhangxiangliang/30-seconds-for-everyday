@@ -2,7 +2,7 @@
 
 ## 简介
 
-> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday)
+> [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/zhangxiangliang/30-seconds-for-everyday)
 
 * 同学： 让 `大家` 同在一起求学 📚
 * 陪伴： 与 `小二` 一起成长学习 💪
@@ -83,15 +83,8 @@
     * [复制内容到剪贴板](posts/copy-to-clipboard.md)
     * [简单的 HTTP 工具](posts/simple-http.md)
 
-## 其他仓库
-
-* [轻松学理财](https://github.com/pushmetop/personal-financial-planning)
-* [什么值得读](https://github.com/pushmetop/reading-lists)
-
 ## 一起成长
 
-如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 加个 star。
+如果您感觉有收获可以点赞关注`激励我`，也欢迎到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 加个 star。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

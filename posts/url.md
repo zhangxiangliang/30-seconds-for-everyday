@@ -1,6 +1,6 @@
 <!-- # URL大爆炸 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/url/poster.png)
+![封面](../images/url/poster.png)
 
 ## 简介
 
@@ -153,7 +153,7 @@ console.log(url.searchParams.get('redirect'))
 
 ## hash
 
-`#hash` 中 `fragment` 以 `#` 为开始 `行尾` 为结束。在 [回到顶部](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/scroll.md) 中有提到过利用hash锚点来进行跳转，如果大家注意观察的话会发现 `hash` 的改变不会引起页面的刷新。
+`#hash` 中 `fragment` 以 `#` 为开始 `行尾` 为结束。在 [回到顶部](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/scroll.md) 中有提到过利用hash锚点来进行跳转，如果大家注意观察的话会发现 `hash` 的改变不会引起页面的刷新。
 
 在 `Angular.js`、`Vue Router` 等库中，会利用在 `html5` 中提供了 `history` 的一系列操作，来帮助我们不刷新页面管理  `url`。但是在一些旧的浏览器上并不兼容时，会利用 `hash` 不会主动触发浏览器 `reload` 的特性来修改 `location.hash` 来管理路由。 当然 `hash` 的另外一个特点是可以被保存为书签。
 
@@ -180,8 +180,6 @@ http://username:password@www.pushme.top/test/blah?something=123
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

@@ -1,6 +1,6 @@
 <!-- # 语义化与无障碍树 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-tree/poster.png)
+![封面](../images/a11y-tree/poster.png)
 
 ## 简介
 
@@ -47,7 +47,7 @@
 
 显示的效果如下，作为正常用户可以很清楚的便理解了图片上的内容：
 
-![土土相亲](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-tree/tutu.png)
+![土土相亲](../images/a11y-tree/tutu.png)
 
 而通过 `VoiceOver` 模拟盲人查看图片会得到这么一段语言：
 
@@ -88,13 +88,13 @@
 * 写上 `alt` 又会导致过多信息出现，使得视力障碍用户难以理解。
 * 解决方法：将 `alt` 设置为 `空字符串`，这样屏幕阅读工具就会跳过它。
 
-> 更多内容可以阅读 [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+> 更多内容可以阅读 [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
 
 ## Heading
 
 在浏览网页的时候，正常用户可以通过鼠标滚动或者键盘的上下键。而视力障碍用户`看不到`网页内容，那通过什么来在网页内容搜索中上下滚动浏览页面呢？答案便是 `Heading` 国外的网站大多无障碍体验多做得比较好，毕竟在法律政策下必须做好 `无障碍体验`。这里选用谷歌搜索来演示 `Heading`  对视力障碍群体的帮助：
 
-![谷歌搜索彭于晏](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-tree/pengyuyan.gif)
+![谷歌搜索彭于晏](../images/a11y-tree/pengyuyan.gif)
 
 使用 `control+option+command+h` 在标题之间进行跳转，你会发现右下角分别显示着：
 
@@ -110,7 +110,7 @@
 
 `heading` 的效果在页面上显而易见，视力障碍群体也可以很方便的浏览网页。
 
-> 更多内容可以阅读 [H1 的小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
+> 更多内容可以阅读 [H1 的小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
 
 ## label
 
@@ -126,7 +126,7 @@
 
 表单显示效果如下：
 
-![输入用户名](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-tree/input.png)
+![输入用户名](../images/a11y-tree/input.png)
 
 作为正常用户看着没什么问题，可是作为视障用户在使用 `VoiceOver` 会听到：
 
@@ -168,7 +168,7 @@
 ```html
 <header>
     <div class="container">
-        <h1>PushMeTop</h1>
+        <h1>ZhangXiangLiang</h1>
         <nav>
             <a href="#">主页</a>
             <a href="#">文章</a>
@@ -207,7 +207,7 @@
 
 在 `VoiceOver` 使用转子功能可以看到如下效果：
 
-![转子](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-tree/tool.gif)
+![转子](../images/a11y-tree/tool.gif)
 
 转子通过语义化标签，很轻松的便把网页的结构识别出来了。在`文章`功能下可以看到横幅、导航、主题内容、页脚 和他们内部相关的元素，而在 `地标` 中也可以通过 横幅、导航、主题内容快速浏览网页。
 
@@ -215,7 +215,7 @@
 
 浏览器在渲染的时候会构建 DOM 树，而无障碍工具在理解页面的时候则通过 `无障碍树` 来让 `特殊群体` 理解页面。其实开发过程中离 `无障碍树` 相当近只不过大家一直都没有注意，打开控制台选择 `Accessibility` 即可看到：
 
-![无障碍树](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-tree/console.png)
+![无障碍树](../images/a11y-tree/console.png)
 
 无障碍树的构建便是通过 `语义化` 来实现的，点开 banner、main、contentinfo 进行具体内容查看，而构成无障碍树节点由：Role, Name, State, Value 组成。
 
@@ -246,21 +246,19 @@
 
 ## 无障碍相关内容
 
-* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
-* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
-* [无障碍世界](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
-* [扼住焦点的喉咙](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-foucs.md)
-* [语义化与无障碍树](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-tree.md)
-* [HTML Cosplay](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-aria.md)
-* [无障碍工具](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-tools.md)
+* [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [无障碍世界](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
+* [扼住焦点的喉咙](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-foucs.md)
+* [语义化与无障碍树](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-tree.md)
+* [HTML Cosplay](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-aria.md)
+* [无障碍工具](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-tools.md)
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

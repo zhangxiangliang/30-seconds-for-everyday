@@ -1,12 +1,12 @@
 <!-- # 谁敢与我一战 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/benchmark/poster.png)
+![封面](../images/benchmark/poster.png)
 
 ## 简介
 
 > benchmark、基准测试、jsPerf
 
-在 [优雅插入数组](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/insert-item-inside-an-array.md) 一文中大家最多的评论就是 “能不能加个基准测试”。小二不是不喜欢加基准测试而是现在硬件设备的性能越来越快了，有时候一些操作不是性能问题的主要原因，当然这不是我们不写出好代码的理由。
+在 [优雅插入数组](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/insert-item-inside-an-array.md) 一文中大家最多的评论就是 “能不能加个基准测试”。小二不是不喜欢加基准测试而是现在硬件设备的性能越来越快了，有时候一些操作不是性能问题的主要原因，当然这不是我们不写出好代码的理由。
 
 书写代码还是应该在 `优雅易读` 和 `运行性能`中做出平衡，适合的场景做适合的事情。不过既然大家都提到了 `基准测试` 碰巧我又刚好没有想到要写什么那就一起了解一下 `基准测试` 吧。
 
@@ -42,7 +42,7 @@ b = [...b, 9];
 
 ## Benchmark
 
-上面简单两个例子帮助理解 `基准测试` 的一些基本要点。在开发中除了利用浏览器的特性来调优代码，有时候不同的代码写法也会带来不一样的性能表现。在 [优雅插入数组](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/insert-item-inside-an-array.md) 中把数据插入数组尾部就介绍了四种不一样的方法，利用哪一种写法会使得代码 `优雅、易懂、跑得快`呢，可以使用 [Benchmark](https://github.com/bestiejs/benchmark.js) 来帮助测试得到结论。
+上面简单两个例子帮助理解 `基准测试` 的一些基本要点。在开发中除了利用浏览器的特性来调优代码，有时候不同的代码写法也会带来不一样的性能表现。在 [优雅插入数组](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/insert-item-inside-an-array.md) 中把数据插入数组尾部就介绍了四种不一样的方法，利用哪一种写法会使得代码 `优雅、易懂、跑得快`呢，可以使用 [Benchmark](https://github.com/bestiejs/benchmark.js) 来帮助测试得到结论。
 
 ### 安装
 
@@ -172,8 +172,6 @@ suite
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

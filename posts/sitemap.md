@@ -1,6 +1,6 @@
 <!-- # 投怀送抱 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/sitemap/poster.png)
+![封面](../images/sitemap/poster.png)
 
 ## 简介
 
@@ -118,20 +118,18 @@ http://pushme.top/30-seconds-for-everyday
 
 ## SEO 相关内容
 
-* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
-* [SEO 初体验](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/seo-101.md)
-* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
-* [千里姻缘一线牵](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
-* [投怀送抱](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/sitemap.md)
-* [漫游器法则](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
+* [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [SEO 初体验](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/seo-101.md)
+* [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [千里姻缘一线牵](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
+* [投怀送抱](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/sitemap.md)
+* [漫游器法则](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

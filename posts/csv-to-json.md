@@ -1,12 +1,12 @@
 <!-- # CSVToJSON -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/csv-to-json/poster.png)
+![封面](../images/csv-to-json/poster.png)
 
 ## 简介
 
 > 数组、CSV、表格、工具
 
-我们之前的两期 [数组转 CSV 表格数据](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/array-to-csv.md) 和 [JSON 对象数组转换 CSV 表格数据](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/json-to-csv.md) 中学习了转化为 `CSV` 表格数据的代码片段，今天就讲讲 如何把 CSV 表格数据转换为 JSON 对象：
+我们之前的两期 [数组转 CSV 表格数据](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/array-to-csv.md) 和 [JSON 对象数组转换 CSV 表格数据](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/json-to-csv.md) 中学习了转化为 `CSV` 表格数据的代码片段，今天就讲讲 如何把 CSV 表格数据转换为 JSON 对象：
 
 ```javascript
 // 该源码来自于 https://30secondsofcode.org
@@ -71,7 +71,7 @@ titles.reduce((obj, title, index) => (obj[title] = values[index]), obj), {});
 
 ```csv
 title,content
-pushmetop,让我们一起变得更好
+zhangxiangliang,让我们一起变得更好
 sf,答题平台
 掘金,掘金是一个帮助开发者成长的社区
 ```
@@ -96,8 +96,6 @@ function importPostData(files) {
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

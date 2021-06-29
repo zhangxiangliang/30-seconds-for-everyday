@@ -1,6 +1,6 @@
 <!-- # 扼住焦点的喉咙 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-focus/poster.png)
+![封面](../images/a11y-focus/poster.png)
 
 ## 简介
 
@@ -16,11 +16,11 @@
 
 在掘金个人主页里按下 `tab` 键后，蓝色的`焦点`框会从 logo 到 首页一个个链接遍历下来，在这个过程中可以发现 `链接`、`按钮`、`搜索框` 都会产生焦点。细心的同学如果打开控制台会还会发现，跳转的顺序和标签在 HTML 中出现的`先后顺序`有关。
 
-![掘金焦点](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-focus/juejin.gif)
+![掘金焦点](../images/a11y-focus/juejin.gif)
 
 运动觉障碍的用户，例如霍金大大就可以利用他的三个指头配合 `tab` 和 `shift + tab` 来浏览 `掘金` 并在掘金上做交互性的操作。除此之外键盘上的 `方向键` 也是移动和浏览页面必不可少的一部分，你可以使用 `上下键` 来是的页面可以上下滚动，也可以在 `select 标签` 中选择选项。
 
-> 更多无障碍群体内容可以阅读 [无障碍世界](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
+> 更多无障碍群体内容可以阅读 [无障碍世界](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
 
 ## 调试工具
 
@@ -80,7 +80,7 @@ console.log(allTagsDOM);
 ```
 ##### 效果
 
-![破坏标签顺序](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-focus/bad-html.gif)
+![破坏标签顺序](../images/a11y-focus/bad-html.gif)
 
 #### 破坏显示顺序
 
@@ -100,7 +100,7 @@ console.log(allTagsDOM);
 
 ##### 效果
 
-![破坏显示顺序](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-focus/bad-css.gif)
+![破坏显示顺序](../images/a11y-focus/bad-css.gif)
 
 ### 自定义元素
 
@@ -113,7 +113,7 @@ console.log(allTagsDOM);
 提到看不见的元素很多同学可能会一头雾水，最常见的看不见标签便是隐藏的`导航菜单栏`：
 
 
-![导航菜单栏](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-focus/menu.png)
+![导航菜单栏](../images/a11y-focus/menu.png)
 
 上面讲到的 `交互标签` 会按顺序被 `tab` 选中成为焦点，导航菜单中的元素是一个个的 `a[href]`，当在使用 `tab` 浏览的时候焦点会被锁定在这个`隐藏的菜单`之中。如果没有把鼠标悬浮在`首页`上时，用户可能会产生困惑 `焦点去哪里了`。
 
@@ -128,7 +128,7 @@ console.log(allTagsDOM);
 
 通过点击菜单栏来进行页面的切换，但是你有思考过当切换完菜单，用户要浏览内容还得按多少下 `tab` 才能进入内容标签嘛？如果菜单栏有五六十个的情况是多么可怕，你还真别说没有 `某东` 和 `某宝` 的菜单项就有这么多：
 
-![某东](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-focus/jd.png)
+![某东](../images/a11y-focus/jd.png)
 
 不过当选中标签按下 `enter` 时，他们会直接打开新的页面算是减少了用户需要 `tab` 的次数，不过在新页面上还是要重新点击多次 `tab` 才能浏览内容。我们可以利用 `锚点` 和 `tabindex=-1` 来帮助用户快速切换内容焦点：
 
@@ -241,21 +241,19 @@ console.log(allTagsDOM);
 
 ## 无障碍相关内容
 
-* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
-* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
-* [无障碍世界](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
-* [扼住焦点的喉咙](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-foucs.md)
-* [语义化与无障碍树](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-tree.md)
-* [HTML Cosplay](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-aria.md)
-* [无障碍工具](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-tools.md)
+* [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [无障碍世界](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
+* [扼住焦点的喉咙](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-foucs.md)
+* [语义化与无障碍树](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-tree.md)
+* [HTML Cosplay](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-aria.md)
+* [无障碍工具](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-tools.md)
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

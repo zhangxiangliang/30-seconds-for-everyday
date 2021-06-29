@@ -1,6 +1,6 @@
 <!-- # 判断是否为页面底部 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/bottom-visible/poster.png)
+![封面](../images/bottom-visible/poster.png)
 
 ## 简介
 
@@ -28,7 +28,7 @@
 
 当然分页没有绝对的银弹得根据不同的情况进行略微的调整和交叉搭配使用分页方式。例如：页面页脚有需要用户查看的数据时，可以使用 `自动加载更多数据`，当加载二到三页时提示 `加载更多数据` 按钮，使得特定用户可以较为方便的看到页脚内容更多的情景就不一一列举了。
 
-页面数据过多造成的卡顿可以参考 [每日 30 秒之 chunk](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/chunk.md) 中给出的情景案例，利用 `数据分组显示` 来减少 DOM 节点进而优化页面卡顿,这里不讨论分页及其相关的优化。
+页面数据过多造成的卡顿可以参考 [每日 30 秒之 chunk](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/chunk.md) 中给出的情景案例，利用 `数据分组显示` 来减少 DOM 节点进而优化页面卡顿,这里不讨论分页及其相关的优化。
 
 今天分享的代码是分页过程中会用到的一个函数 `判断是否到达了页面底部`：
 
@@ -84,8 +84,6 @@ const topVisible = () => window.scrollY == 0
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

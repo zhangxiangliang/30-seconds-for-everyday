@@ -1,6 +1,6 @@
 <!-- # 优雅插入数组 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/insert-item-inside-an-array/poster.png)
+![封面](../images/insert-item-inside-an-array/poster.png)
 
 ## 简介
 
@@ -92,7 +92,7 @@ let arr = [1,2,3,4,5];
 arr = [...[-2, -1, 0], ...arr];
 ```
 
-> 如果大家还有什么优雅的写法留言评论，也可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 提交。
+> 如果大家还有什么优雅的写法留言评论，也可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 提交。
 
 ## 基准测试
 
@@ -105,8 +105,6 @@ arr = [...[-2, -1, 0], ...arr];
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

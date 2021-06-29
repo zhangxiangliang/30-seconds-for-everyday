@@ -1,12 +1,12 @@
 <!-- # 巧用可视区域 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/in-viewport/poster.png)
+![封面](../images/in-viewport/poster.png)
 
 ## 简介
 
 > 可视区域、页面优化、DOM节点多、图片懒加载、性能
 
-`可视区域`是一个前端优化经常出现的名词，不管是显示器、手机、平板它们的`可视区域`范围都是有限。在这个 `有限可视区域` 区域里做到完美显示和响应，而在这个区域外少做一些操作来减少渲染的压力、网络请求压力。在 [每日 30 秒之 对海量数据进行切割](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/chunk.md) 中的使用场景，我们就是利用了 `有限可视区域` 只渲染一部分 DOM 节点来减少页面卡顿。
+`可视区域`是一个前端优化经常出现的名词，不管是显示器、手机、平板它们的`可视区域`范围都是有限。在这个 `有限可视区域` 区域里做到完美显示和响应，而在这个区域外少做一些操作来减少渲染的压力、网络请求压力。在 [每日 30 秒之 对海量数据进行切割](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/chunk.md) 中的使用场景，我们就是利用了 `有限可视区域` 只渲染一部分 DOM 节点来减少页面卡顿。
 
 > 既然 `可视区域` 这么重要是否有什么速成秘籍来帮我们？
 
@@ -149,8 +149,6 @@ function lazyLoading() {
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

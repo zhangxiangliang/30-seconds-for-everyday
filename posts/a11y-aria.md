@@ -1,6 +1,6 @@
 <!-- # HTML Cosplay -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/a11y-aria/poster.png)
+![封面](../images/a11y-aria/poster.png)
 
 ## 简介
 
@@ -12,7 +12,7 @@
 * 短短圆圆的小尾巴。
 * 红红的眼睛。
 
-那如何向 `视障用户` 介绍网页长什么样？有看过 [语义化与无障碍树](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-tree.md) 的同学可能会说：
+那如何向 `视障用户` 介绍网页长什么样？有看过 [语义化与无障碍树](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-tree.md) 的同学可能会说：
 
 * header 标签表示一个网页的页眉。
 * main 标签表示一个网页的内容。
@@ -139,21 +139,19 @@
 
 ## 无障碍相关内容
 
-* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
-* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
-* [无障碍世界](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
-* [扼住焦点的喉咙](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-foucs.md)
-* [语义化与无障碍树](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-tree.md)
-* [HTML Cosplay](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-aria.md)
-* [无障碍工具](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/a11y-tools.md)
+* [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [无障碍世界](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-101.md)
+* [扼住焦点的喉咙](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-foucs.md)
+* [语义化与无障碍树](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-tree.md)
+* [HTML Cosplay](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-aria.md)
+* [无障碍工具](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/a11y-tools.md)
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

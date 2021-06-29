@@ -1,12 +1,12 @@
 <!-- # img の 小九九 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/img-tag/poster.png)
+![封面](../images/img-tag/poster.png)
 
 ## 简介
 
 > SEO、跨域、无障碍阅读、事件、图片标签
 
-`小九九` 最直接的联想便是 `九九乘法表`，但是 `小九九` 也用在形容一个人在心里打着算盘 `小主意` 和 `小秘密`。小秘密已经被 [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md) 这篇文章使用了，为了体现小二的“博学多才”就换个词语吧（其实想个词脑袋已经💥爆炸了）。
+`小九九` 最直接的联想便是 `九九乘法表`，但是 `小九九` 也用在形容一个人在心里打着算盘 `小主意` 和 `小秘密`。小秘密已经被 [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md) 这篇文章使用了，为了体现小二的“博学多才”就换个词语吧（其实想个词脑袋已经💥爆炸了）。
 
 开发中经常使用的 `<img>` 瞒着你许多事情，为了防止`青青草原`尴尬事件一起化身名侦探对其大探秘，看它到底有多少`小九九`！
 
@@ -37,7 +37,7 @@
 
 在 `SEO`（搜索引擎优化）方面 `alt 属性` 也有一定的作用哦，虽然现在有了 `AI` 可以识别出图片里面的内容是什么。可是搜索引擎并没有那么聪明哦，它在理解一张图片是什么的时候会去读取 `alt 属性`，并且配合页面的 title、description 来组织和保存这张图片的信息。这也是为什么在`百度`、`谷歌` 搜索关键词时能得到那么多相关图片的原因。
 
-> 更多 SEO 相关知识可以阅读 [SEO初体验](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/seo-101.md) 和 [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)。
+> 更多 SEO 相关知识可以阅读 [SEO初体验](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/seo-101.md) 和 [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)。
 
 ### 特殊群体
 
@@ -46,7 +46,7 @@
 
 > 希望大家都能加上 `alt 属性` 毕竟感受不到色彩和世界美妙时，还能感受图片的内容和温度。想想自己的代码能让世界更美好了，不是一件值得开心的事情吗？
 
-> 更多 无障碍阅读 相关知识可以阅读 [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)。
+> 更多 无障碍阅读 相关知识可以阅读 [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)。
 
 ## 塌陷
 
@@ -115,20 +115,18 @@ canvas.toDataURL()
 
 ## SEO 相关内容
 
-* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
-* [SEO 初体验](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/seo-101.md)
-* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
-* [千里姻缘一线牵](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
-* [投怀送抱](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/sitemap.md)
-* [漫游器法则](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
+* [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [SEO 初体验](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/seo-101.md)
+* [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [千里姻缘一线牵](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
+* [投怀送抱](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/sitemap.md)
+* [漫游器法则](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

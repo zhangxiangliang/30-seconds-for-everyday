@@ -1,6 +1,6 @@
 <!-- # 公众号风波 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/wechat/poster.png)
+![封面](../images/wechat/poster.png)
 
 ## 前言
 
@@ -20,7 +20,7 @@
 
 通过`搜索`发现可以通过 `账号迁移`，把原来有 `留言功能` 的账号迁移到 `无留言功能` 的账号。这下开心死小二了，于是乎打开万能的某宝搜索并和客服聊了起来：
 
-![某宝](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/wechat/taobao.png)
+![某宝](../images/wechat/taobao.png)
 
 开通留言功能整个费用为 `1580` 元是相当昂贵了，可是小二想花这个钱却没有办法花出去：
 
@@ -38,19 +38,19 @@
 
 打开公众号的页面选择找回账号：
 
-![找回账号](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/wechat/find.png)
+![找回账号](../images/wechat/find.png)
 
 按操作一步步执行：
 
-![输入公众号](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/wechat/input.png)
+![输入公众号](../images/wechat/input.png)
 
 小二发蒙了 `公众号` 居然也有着自己的微信号，虽然涨知识了可是小二已经忘记公众号了。在一番搜索后了解到 `公众号` 被注销时会通过 `公众平台安全助手` 发送一条关于注销的消息：
 
-![公众平台安全助手](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/wechat/safe.png)
+![公众平台安全助手](../images/wechat/safe.png)
 
 输入公众号后会发送一条邮件到你的邮箱中，通过认证就能完成公众号的找回。最后再使用 `密码找回` 将密码修改后即可登录：
 
-![个人信息](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/wechat/info.png)
+![个人信息](../images/wechat/info.png)
 
 ## 总结
 
@@ -75,8 +75,6 @@
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)

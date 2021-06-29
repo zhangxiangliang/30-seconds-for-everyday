@@ -1,6 +1,6 @@
 <!-- # 千里姻缘一线牵 -->
 
-![封面](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/hyperlink/poster.png)
+![封面](../images/hyperlink/poster.png)
 
 ## 简介
 
@@ -49,16 +49,16 @@
 例如在掘金中用户评论中使用 `noopener、noreferrer` 和 `nofollow` 来防止评论链接里使用了一些危险链接：
 
 
-![用户评论](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/hyperlink/comments.png)
+![用户评论](../images/hyperlink/comments.png)
 
-> `target="_ blank"` 相关内容可以查看 [大家一起被捕吧](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/lets-get-arrested.md)。
+> `target="_ blank"` 相关内容可以查看 [大家一起被捕吧](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/lets-get-arrested.md)。
 
 
 ### 友链
 
 `相关链接` 除了坏处也有好处，如果是一个`知根知底`且`不错`的网站，可以相互关联来提升网站的权重，这个方式叫做`友情链接` 从名字上就非常好理解。像`京东` 就有专门的友情链接 `http://club.jd.com/links.aspx`：
 
-![京东](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/hyperlink/jd.png)
+![京东](../images/hyperlink/jd.png)
 
 友情链接的好处简单说来就是：一个网站被越多站点提及，越知名站点提及，它很大程度上是一个好网站。例如 `BAT` 要是挂上了小二的链接，大家是不是也会更相信小二这个人？
 
@@ -124,11 +124,11 @@ https://www.juejin.im/
 
 在搜索引擎里，包括`参数`的不同，只有链接完全一样，才会认为是同一个链接。内容相似很有可能被`搜索引擎`判读为作弊，并且会导致权重被分散掉。就好比一条街上开两家 `万达广场` 直接会把客源稀释成两部分。
 
-> 更多 URL 相关可以阅读 [URL 大爆炸](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/url.md)。
+> 更多 URL 相关可以阅读 [URL 大爆炸](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/url.md)。
 
 ### 重定向
 
-![金拱门](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/hyperlink/mcdonalds.png)
+![金拱门](../images/hyperlink/mcdonalds.png)
 
 喜欢动手的同学可能会去试试访问 `https://www.juejin.im/`，就会发现链接会被重定向到 `https://juejin.im/`，确实这个方法便能帮助掘金主页从两个入口变为一个。但是细心的同学还会打开 `控制台` 发现跳转的 `HTTP Status Code` 为 `301` 而不是 `302`，这是为什么呢？
 
@@ -153,7 +153,7 @@ https://www.juejin.im/
 
 注意：`搜索引擎` 有可能就会把跳转后的网站归结为是原网址的内容，比如 `baidu.com` 跳转到 `juejin.im` 可能会把掘金的内容归结为百度的，这也叫做 `网址劫持`。最简单的例子就是超市里的 `康师傅` 和 `康帅傅`：
 
-![康师傅](https://raw.githubusercontent.com/pushmetop/resource/master/30-seconds-for-everyday/hyperlink/noodles.png)
+![康师傅](../images/hyperlink/noodles.png)
 
 > ps: 小二真真真的没收一分钱广告费哦，只是单纯的举例子。
 
@@ -185,20 +185,18 @@ https://pushme.top/index.html?from=taobao
 
 ## SEO 相关内容
 
-* [H1 の 小秘密](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/heading.md)
-* [SEO 初体验](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/seo-101.md)
-* [img の 小九九](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/img-tag.md)
-* [千里姻缘一线牵](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
-* [投怀送抱](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/sitemap.md)
-* [漫游器法则](https://github.com/pushmetop/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
+* [H1 の 小秘密](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/heading.md)
+* [SEO 初体验](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/seo-101.md)
+* [img の 小九九](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/img-tag.md)
+* [千里姻缘一线牵](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/hyperlink.md)
+* [投怀送抱](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/sitemap.md)
+* [漫游器法则](https://github.com/zhangxiangliang/30-seconds-for-everyday/blob/master/posts/robot-txt.md)
 
 ## 一起成长
 
 > 在困惑的城市里总少不了并肩同行的 `伙伴` 让我们一起成长。
 
 * 如果您想让更多人看到文章可以点个 `点赞`。
-* 如果您想激励小二可以到 [Github](https://github.com/pushmetop/30-seconds-for-everyday) 给个 `小星星`。
+* 如果您想激励小二可以到 [Github](https://github.com/zhangxiangliang/30-seconds-for-everyday) 给个 `小星星`。
 
-![微信公众号](https://raw.githubusercontent.com/pushmetop/resource/master/donate/pushmetop.png)
-
-> 本文原稿来自 [PushMeTop](https://github.com/pushmetop)
+> 本文原稿来自 [ZhangXiangLiang](https://github.com/zhangxiangliang)
